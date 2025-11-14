@@ -44,7 +44,3 @@ These should be followed after you master the top priority list. If you aren't g
   - *Note: Sacred Sites are good for drawing out your enemy and gold generation*
 - Trade Routes after you build the market
   - *Note: Trade Routes are essential for long games 25+ minutes as they generate lots of gold*
-
-## YouTube Video
-
-{{< youtube "1LM9oUADjTI" >}}

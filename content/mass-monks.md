@@ -88,7 +88,3 @@ Other civs units: Elephants, ottoman great cannon, OOTD units and of course any 
 * the spearmen and onabugeisha have range upgrades which mean in a ball situation they can reach enemies even if they are not in frontlines. I think the range is 1 which is really far for melee.
 * Healing is a hidden resource collection. A mounted samurai costs 250 resources. So if you heal up one mounted bannerman that had 1 HP, where generation is 7HP per second, the monk gathers 25+(110*2)=245gold + 140*2=280 food per minute which is the fastest gathering rate in the game per unit.
 * Mass monks makes a nice meatwall against spearmen and MAA as they heal each other, debuff closest units which are stabbing them and the spearnen cant use their bonus damage
-
-## YouTube Video
-
-{{< youtube 1LM9oUADjTI >}}

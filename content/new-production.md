@@ -52,7 +52,3 @@ How do you fix your BAD resource balance:
 [AOE4 Calculator](https://www.aoe4-production-calculator.com/)
 
 ![aoe4-prod-calc](/images/aoe4-prod-calc.webp)
-
-## YouTube Video
-
-{{< youtube NoHa9lPTfno >}}
