@@ -156,9 +156,29 @@ def update_best_wins_and_worst_losses(games):
                     print(f"Debug: Error details - {str(e)}")
                     continue
 
-    # Sort and get top 5 unique wins and bottom 5 unique losses
-    best_wins = sorted(best_wins, key=lambda x: (x[0], x[1]), reverse=True)[:5]
-    worst_losses = sorted(worst_losses, key=lambda x: (x[0], x[1]))[:5]
+    # Sort all wins and losses first
+    all_best_wins = sorted(best_wins, key=lambda x: (x[0], x[1]), reverse=True)
+    all_worst_losses = sorted(worst_losses, key=lambda x: (x[0], x[1]))
+
+    # Get overall top 5
+    overall_best_wins = all_best_wins[:5]
+    overall_worst_losses = all_worst_losses[:5]
+
+    # Group by year and get top 3 for each year
+    wins_by_year = {}
+    losses_by_year = {}
+    
+    for rating, date, game in all_best_wins:
+        year = date.year
+        if year not in wins_by_year:
+            wins_by_year[year] = []
+        wins_by_year[year].append((rating, date, game))
+    
+    for rating, date, game in all_worst_losses:
+        year = date.year
+        if year not in losses_by_year:
+            losses_by_year[year] = []
+        losses_by_year[year].append((rating, date, game))
 
     # Read existing frontmatter if file exists
     frontmatter = """---
@@ -172,19 +192,39 @@ comment: true
 draft: false
 ---\n\n"""
 
-    best_wins_content = (f"# Hall of Fame\n\n"
-                        f"### Best Wins\n\n"
-                        "| Date and Time | Result | Matchup | Opponent Rating | MMR Difference |\n"
-                        "|---------------|--------|---------|-----------------|----------------|\n" + 
-                        "\n".join(game for _, _, game in best_wins))
+    # Overall best wins section
+    overall_best_content = (f"# Hall of Fame\n\n"
+                           f"## Overall Best Wins\n\n"
+                           "| Date and Time | Result | Matchup | Opponent Rating | MMR Difference |\n"
+                           "|---------------|--------|---------|-----------------|----------------|\n" + 
+                           "\n".join(game for _, _, game in overall_best_wins))
     
-    worst_losses_content = (f"\n\n### Worst Losses\n\n"
+    # Overall worst losses section
+    overall_worst_content = (f"\n\n## Overall Worst Losses\n\n"
                             "| Date and Time | Result | Matchup | Opponent Rating | MMR Difference |\n"
                             "|---------------|--------|---------|-----------------|----------------|\n" + 
-                            "\n".join(game for _, _, game in worst_losses))
+                            "\n".join(game for _, _, game in overall_worst_losses))
+
+    # Best wins by year
+    yearly_best_content = "\n\n## Best Wins by Year\n\n"
+    for year in sorted(wins_by_year.keys(), reverse=True):
+        year_wins = wins_by_year[year][:3]  # Top 3 for the year
+        yearly_best_content += f"### {year}\n\n"
+        yearly_best_content += "| Date and Time | Result | Matchup | Opponent Rating | MMR Difference |\n"
+        yearly_best_content += "|---------------|--------|---------|-----------------|----------------|\n"
+        yearly_best_content += "\n".join(game for _, _, game in year_wins) + "\n\n"
+
+    # Worst losses by year
+    yearly_worst_content = "\n## Worst Losses by Year\n\n"
+    for year in sorted(losses_by_year.keys(), reverse=True):
+        year_losses = losses_by_year[year][:3]  # Bottom 3 for the year
+        yearly_worst_content += f"### {year}\n\n"
+        yearly_worst_content += "| Date and Time | Result | Matchup | Opponent Rating | MMR Difference |\n"
+        yearly_worst_content += "|---------------|--------|---------|-----------------|----------------|\n"
+        yearly_worst_content += "\n".join(game for _, _, game in year_losses) + "\n\n"
 
     with open(HALL_OF_FAME_FILE, 'w', encoding='utf-8') as f:
-        f.write(frontmatter + best_wins_content + worst_losses_content)
+        f.write(frontmatter + overall_best_content + overall_worst_content + yearly_best_content + yearly_worst_content)
 
 def main():
     response = requests.get(API_URL)
