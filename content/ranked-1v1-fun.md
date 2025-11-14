@@ -11,7 +11,7 @@ draft: false
 ---
 
 Ranked matches in Age of Empires IV can feel intense and stressful, but they don't have to be. With the right mindset and approach, you can transform your ranked experience from a source of anxiety into genuine enjoyment. Here's how to rediscover the fun in competitive play.
-
+<!--more-->
 ## 1. Shift Your Mindset First
 
 The foundation of enjoying ranked play starts with your mental approach:
