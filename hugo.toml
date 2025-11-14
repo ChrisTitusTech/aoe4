@@ -19,7 +19,7 @@ theme = 'diary'
     unsafe = true
 
 [params]
-subtitle = "House of Titus"
+subtitle = "Guides, Gameplay, and Entertainment"
 enableGiscus = true
 enableOpenGraph = true
 title = "House of Titus" # will set 'og:site_name'
