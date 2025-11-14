@@ -10,7 +10,7 @@ async function checkLiveStatus() {
 
   console.log('Checking live status...');
   try {
-    const response = await fetch('https://ageoftitus.com/api/check-status', {
+    const response = await fetch('https://aoe4.christitus.com/api/check-status', {
       credentials: 'same-origin'
     });
     
@@ -41,7 +41,7 @@ async function checkLiveStatus() {
       twitchEmbedElement.style.display = 'none';
       
       // Fetch the most recent video
-      const lastVideoResponse = await fetch(`https://ageoftitus.com/api/get-last-video?channel=${data.channelName}`, {
+      const lastVideoResponse = await fetch(`https://aoe4.christitus.com/api/get-last-video?channel=${data.channelName}`, {
         credentials: 'same-origin'
       });
       const lastVideoData = await lastVideoResponse.json();

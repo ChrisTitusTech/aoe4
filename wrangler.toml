@@ -1,0 +1,14 @@
+name = "aoe4-twitch-api"
+main = "themes/diary/static/js/cloudflareworker.js"
+compatibility_date = "2024-01-01"
+
+[env.production]
+route = { pattern = "aoe4.christitus.com/api/*", zone_name = "christitus.com" }
+
+[[env.production.kv_namespaces]]
+binding = "TWITCH_KV"
+id = "your_kv_namespace_id"
+
+[env.production.vars]
+CLIENT_ID = "34andvygaodh8zmq10n7v89tfd4v7t"
+CHANNEL_NAME = "House_of_Titus"

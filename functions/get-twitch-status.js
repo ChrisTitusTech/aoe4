@@ -1,6 +1,6 @@
 export async function onRequest(context) {
-  const channelName = 'TitusTechGaming';
-  const clientId = 'au9081y3ft41wtb1p4im5502qy5emu';
+  const channelName = 'House_of_Titus';
+  const clientId = 'za4ggow0vi8blxkh1hh4m96hf94a6h';
   
   // Fetch the bearer token from KV
   const bearerToken = await context.env.TWITCH_KV.get('bearer_token');
