@@ -15,9 +15,9 @@ Live Streams from Twitch and YouTube
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
 | [2025-11-13 21:36](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=8305) | Loss | Japanese vs Holy Roman Empire (Mako) | 871 | -55 |  |
-| 2025-11-13 20:38 | Loss | Macedonian Dynasty vs Macedonian Dynasty (Rivotril) | None | N/A |
+| [2025-11-13 20:38](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=4851) | Loss | Macedonian Dynasty vs Macedonian Dynasty (Rivotril) | None | N/A |  |
 | [2025-11-13 19:54](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=2217) | Loss | Macedonian Dynasty vs French (maripet99) | 803 | -170 |  |
-| [2025-11-13 19:20](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=8305) | Loss | Macedonian Dynasty vs Tughlaq Dynasty (Nobunaga) | 952 | -45 |  |
+| [2025-11-13 19:20](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=130) | Loss | Macedonian Dynasty vs Tughlaq Dynasty (Nobunaga) | 952 | -45 |  |
 | 2025-11-12 03:14 | Win | Macedonian Dynasty vs Macedonian Dynasty (芜呼呼呼) | 896 | -81 |
 | 2025-11-11 03:09 | Win | Macedonian Dynasty vs Macedonian Dynasty (TheLastOfUs) | 982 | 29 |
 | 2025-11-10 01:37 | Win | Macedonian Dynasty vs Japanese (Khaif3797) | 927 | -1 |

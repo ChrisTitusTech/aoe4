@@ -60,6 +60,8 @@ def parse_games_md(file_path):
 
 def match_games_to_videos(games, videos):
     matched_games = []
+    used_timestamps = set()  # Track used timestamps to prevent duplicates
+    
     for video_title, video_link, video_description, video_date in videos:
         print(f"Processing video: {video_title}")
         print(f"  Video date: {video_date.date()}")
@@ -94,6 +96,18 @@ def match_games_to_videos(games, videos):
                             opponent_civ = opponent_match.group(2).strip()
                             result = result_match.group(1)
                             
+                            # Normalize civilization names for common variations
+                            civ_map = {
+                                'macedonia mirror match': 'Macedonian Dynasty',
+                                'macedonia': 'Macedonian Dynasty',
+                                'tughlaq dynasty': 'Tughlaq Dynasty',
+                                'holy roman empire': 'Holy Roman Empire',
+                                'french': 'French'
+                            }
+                            
+                            # Check if opponent_civ matches any of our mappings
+                            normalized_civ = civ_map.get(opponent_civ.lower(), opponent_civ)
+                            
                             # Convert to HH:MM:SS format if needed
                             time_parts = game_time.split(':')
                             if len(time_parts) == 3:
@@ -104,7 +118,7 @@ def match_games_to_videos(games, videos):
                                 continue
                                 
                             # Create match info from the parsed data
-                            match_info = f"vs {opponent_civ} ({opponent_name})"
+                            match_info = f"vs {normalized_civ} ({opponent_name})"
                             game_infos.append((formatted_time, result, match_info))
                             print(f"    Found game: {formatted_time} {result} {match_info}")
                             break
@@ -130,6 +144,18 @@ def match_games_to_videos(games, videos):
                                     opponent_civ = opponent_info.group(2).strip()
                                     result = result_info.group(1)
                                     
+                                    # Normalize civilization names for common variations
+                                    civ_map = {
+                                        'macedonia mirror match': 'Macedonian Dynasty',
+                                        'macedonia': 'Macedonian Dynasty',
+                                        'tughlaq dynasty': 'Tughlaq Dynasty',
+                                        'holy roman empire': 'Holy Roman Empire',
+                                        'french': 'French'
+                                    }
+                                    
+                                    # Check if opponent_civ matches any of our mappings
+                                    normalized_civ = civ_map.get(opponent_civ.lower(), opponent_civ)
+                                    
                                     # Convert to HH:MM:SS format if needed
                                     time_parts = game_time.split(':')
                                     if len(time_parts) == 3:
@@ -140,7 +166,7 @@ def match_games_to_videos(games, videos):
                                         continue
                                         
                                     # Create match info from the parsed data
-                                    match_info = f"vs {opponent_civ} ({opponent_name})"
+                                    match_info = f"vs {normalized_civ} ({opponent_name})"
                                     game_infos.append((formatted_time, result, match_info))
                                     print(f"    Found game: {formatted_time} {result} {match_info}")
                                     break
@@ -176,9 +202,18 @@ def match_games_to_videos(games, videos):
                     print(f"      Game matchup (normalized): {game_matchup_normalized}")
                 
                 if date_match and result_match and matchup_match:
-                    matched_game = (game_date.strftime('%Y-%m-%d %H:%M'), f"{video_link}&t={int(game_time.hour*3600 + game_time.minute*60 + game_time.second)}")
+                    timestamp_seconds = int(game_time.hour*3600 + game_time.minute*60 + game_time.second)
+                    timestamp_key = f"{video_link}&t={timestamp_seconds}"
+                    
+                    # Check if this timestamp has already been used
+                    if timestamp_key in used_timestamps:
+                        print(f"    Timestamp {timestamp_seconds} already used, skipping duplicate assignment")
+                        continue
+                        
+                    matched_game = (game_date.strftime('%Y-%m-%d %H:%M'), timestamp_key)
                     matched_games.append(matched_game)
-                    print(f"    Full match found: {matched_game[0]}")
+                    used_timestamps.add(timestamp_key)
+                    print(f"    Full match found: {matched_game[0]} -> t={timestamp_seconds}")
                     break
             else:
                 print(f"    No match found for this game")
