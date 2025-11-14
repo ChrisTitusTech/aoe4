@@ -1,7 +1,7 @@
-baseURL = 'https://ageoftitus.com/'
+baseURL = 'https://aoe4.christitus.com/'
 languageCode = 'en-us'
-title = 'Age of Titus'
-copyright = "2024 Titus Tech Gaming"
+title = 'House of Titus'
+copyright = "2025 House of Titus"
 theme = 'diary'
 
 [markup]
@@ -19,15 +19,15 @@ theme = 'diary'
     unsafe = true
 
 [params]
-subtitle = "Titus Tech Gaming"
+subtitle = "House of Titus"
 enableGiscus = true
 enableOpenGraph = true
-title = "Age of Titus" # will set 'og:site_name'
-description = "Titus Tech Gaming"  # will set 'og:description'
+title = "House of Titus" # will set 'og:site_name'
+description = "Age of Empires IV guides, gameplay, and general entertainment"  # will set 'og:description'
 
 [params.social]
-youtube = "https://www.youtube.com/titustechgaming"
-twitch = "https://www.twitch.tv/titustechgaming"
+youtube = "https://www.youtube.com/house_of_titus"
+twitch = "https://www.twitch.tv/house_of_titus"
 
 [taxonomies]
    tag = "tags"

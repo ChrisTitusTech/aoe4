@@ -27,6 +27,6 @@ draft: false
 |---------------|--------|---------|-----------------|----------------|
 | [2024-10-26 19:27](https://www.youtube.com/watch?v=LaqPNN4Xnyo&t=4123) | Loss | Japanese vs Order Of The Dragon (M3) | 584 | -211 |
 | [2024-10-16 01:00](https://www.youtube.com/watch?v=64I0fgmeCLE&t=2087) | Loss | Japanese vs Japanese (JAM) | 606 | -214 |
-| 2024-11-19 07:22 | Loss | Japanese vs French (Surrendead) | 637 | -277 |
+| [2024-11-19 07:22](https://www.youtube.com/watch?v=4_lJfUk6APw&t=8658) | Loss | Japanese vs French (Surrendead) | 637 | -277 |
 | [2024-10-16 01:39](https://www.youtube.com/watch?v=64I0fgmeCLE&t=4453) | Loss | Japanese vs English (JAM) | 644 | -150 |
 | [2024-10-29 07:07](https://www.youtube.com/watch?v=LnyE5EOOOFc&t=8034) | Loss | Japanese vs Ottomans (Eatmypc [BE]) | 647 | -105 |

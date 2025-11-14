@@ -11,8 +11,8 @@ TITUS_PROFILE_ID = 17272020
 AOE4_WORLD_URL = "https://aoe4world.com/players/17272020-TitusMaximus/games"
 
 # Add new constant for session gap
-SESSION_GAP_HOURS = 2
-LOOKBACK_HOURS = 24  # Changed from 12 to 24 hours
+SESSION_GAP_HOURS = 4
+LOOKBACK_HOURS = 30  # Changed from 12 to 24 hours
 
 def get_twitch_links(page_source, num_games):
     print("Extracting Twitch links...")
