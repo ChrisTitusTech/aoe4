@@ -193,11 +193,10 @@ draft: false
 ---\n\n"""
 
     # Overall best wins section
-    overall_best_content = (f"# Hall of Fame\n\n"
-                           f"## Overall Best Wins\n\n"
-                           "| Date and Time | Result | Matchup | Opponent Rating | MMR Difference |\n"
-                           "|---------------|--------|---------|-----------------|----------------|\n" + 
-                           "\n".join(game for _, _, game in overall_best_wins))
+    overall_best_content = ("## Overall Best Wins\n\n"
+                        "| Date and Time | Result | Matchup | Opponent Rating | MMR Difference |\n"
+                        "|---------------|--------|---------|-----------------|----------------|\n" + 
+                        "\n".join(game for _, _, game in overall_best_wins))
     
     # Overall worst losses section
     overall_worst_content = (f"\n\n## Overall Worst Losses\n\n"
