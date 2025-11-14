@@ -13,22 +13,15 @@ draft: false
 
 ### Best Wins
 
-
-### Worst Losses
-
-
-
-### Best Wins of 2024
-
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
 | 2024-11-09 21:18 | Win | Japanese vs English (cranecrusher) | 1061 | -4 |
+| 2024-11-25 22:14 | Win | Ayyubids vs Delhi Sultanate (CAESAR) | 1026 | 135 |
 | 2024-11-09 04:21 | Win | Japanese vs Delhi Sultanate (PO3) | 1007 | -14 |
 | 2024-11-09 04:21 | Win | Japanese vs Delhi Sultanate (InLost) | 1007 | -14 |
 | 2024-11-08 04:46 | Win | Japanese vs French (ジン) | 1003 | 48 |
-| 2024-11-12 05:02 | Win | Japanese vs Zhu Xis Legacy (Ottoman7319) | 974 | -27 |
 
-### Worst Losses of 2024
+### Worst Losses
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|

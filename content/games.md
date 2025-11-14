@@ -14,6 +14,31 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| [2025-11-13 21:36](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=8305) | Loss | Japanese vs Holy Roman Empire (Mako) | 871 | -55 |  |
+| 2025-11-13 20:38 | Loss | Macedonian Dynasty vs Macedonian Dynasty (Rivotril) | None | N/A |
+| [2025-11-13 19:54](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=2217) | Loss | Macedonian Dynasty vs French (maripet99) | 803 | -170 |  |
+| [2025-11-13 19:20](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=8305) | Loss | Macedonian Dynasty vs Tughlaq Dynasty (Nobunaga) | 952 | -45 |  |
+| 2025-11-12 03:14 | Win | Macedonian Dynasty vs Macedonian Dynasty (芜呼呼呼) | 896 | -81 |
+| 2025-11-11 03:09 | Win | Macedonian Dynasty vs Macedonian Dynasty (TheLastOfUs) | 982 | 29 |
+| 2025-11-10 01:37 | Win | Macedonian Dynasty vs Japanese (Khaif3797) | 927 | -1 |
+| 2025-11-10 00:11 | Win | Macedonian Dynasty vs Ottomans (Lettuce) | 877 | -29 |
+| 2025-11-09 20:41 | Win | Macedonian Dynasty vs Sengoku Daimyo (RedOktober) | None | N/A |
+| 2025-11-09 20:23 | Win | Macedonian Dynasty vs Jeanne Darc (Planetarian) | None | N/A |
+| 2025-11-09 20:00 | Win | Macedonian Dynasty vs French (Wider_panda) | 772 | N/A |
+| 2025-11-08 04:09 | Loss | Macedonian Dynasty vs French (迪克·佩恩) | 908 | N/A |
+| 2025-11-08 03:40 | Win | Macedonian Dynasty vs English (Mr MonkeyJones) | 797 | N/A |
+| 2025-11-07 21:02 | Win | Macedonian Dynasty vs English (JMirandaN7) | 695 | N/A |
+| 2025-11-04 02:56 | Win | House Of Lancaster vs Ayyubids (Vegboy) | 950 | N/A |
+| 2024-11-26 05:33 | Loss | Holy Roman Empire vs English (PepKingPrawn) | 697 | -170 |
+| 2024-11-26 03:44 | Loss | Ayyubids vs Ayyubids (Minatauro2580) | 878 | -13 |
+| 2024-11-26 03:10 | Loss | Ayyubids vs English (Jangles75) | 916 | 2 |
+| 2024-11-25 22:14 | Win | Ayyubids vs Delhi Sultanate (CAESAR) | 1026 | 135 |
+| 2024-11-25 21:56 | Win | Ayyubids vs English (peter's) | 898 | 30 |
+| 2024-11-25 18:23 | Loss | Ayyubids vs Rus (🐠👤☟♦  💣🐯ˢ𝓞) | None | N/A |
+| 2024-11-25 05:57 | Win | Ayyubids vs Holy Roman Empire (Cry Havoc) | 832 | -13 |
+| 2024-11-25 05:27 | Win | Ayyubids vs Chinese (Nybs) | 836 | N/A |
+| 2024-11-25 05:01 | Loss | Ayyubids vs Chinese (AppleCider7137) | 830 | N/A |
+| 2024-11-25 04:31 | Win | Ayyubids vs French (KHAN CUBA) | 849 | 27 |
 | 2024-11-24 08:46 | Win | Japanese vs English (s2k.knightsavage) | None | N/A |
 | 2024-11-24 07:52 | Loss | Mongols vs Order Of The Dragon (QqCSaTANK) | 877 | 65 |
 | 2024-11-24 07:24 | Loss | Mongols vs Abbasid Dynasty (joetorch70) | 920 | 87 |
@@ -25,10 +50,13 @@ Live Streams from Twitch and YouTube
 | 2024-11-21 22:47 | Win | Abbasid Dynasty vs Abbasid Dynasty (accuratebuzzard1516) | None | N/A |
 | 2024-11-21 08:30 | Loss | Japanese vs Delhi Sultanate (ugur) | None | N/A |
 | 2024-11-21 07:13 | Loss | Japanese vs Holy Roman Empire (FlashNBurn) | 887 | 3 |
+| 2024-11-21 07:13 | Loss | Japanese vs Holy Roman Empire (Whey2Juicy) | 887 | 3 |
 | 2024-11-21 06:24 | Win | Japanese vs Byzantines (信天翁) | 841 | -21 |
 | 2024-11-21 05:58 | Loss | Japanese vs English (czkiab) | 804 | -89 |
+| 2024-11-21 05:58 | Loss | Japanese vs English (LebanonCedars) | 804 | -89 |
 | 2024-11-21 05:17 | Loss | Japanese vs English (markit0) | 849 | -66 |
 | 2024-11-19 07:54 | Win | Japanese vs Malians (Net Zero) | 872 | -20 |
+| 2024-11-19 07:54 | Win | Japanese vs Malians (Old Smoke) | 872 | -20 |
 | 2024-11-19 07:22 | Loss | Japanese vs French (Surrendead) | 637 | -277 |
 | 2024-11-19 06:46 | Win | Japanese vs Order Of The Dragon (BigPablo) | 885 | -5 |
 | 2024-11-19 05:58 | Loss | Mongols vs Zhu Xis Legacy (MaxedStoned) | 853 | -62 |

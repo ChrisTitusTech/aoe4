@@ -5,9 +5,16 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 import codecs
 
+# Try to load from .env file for local development
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  # dotenv not installed, continue with environment variables only
+
 # Get the API key from environment variable
 API_KEY = os.environ.get('API_KEY')
-PLAYLIST_ID = 'PLfp2TqQlNb-Za6nzGCdcDtSDYneKtFtit'
+PLAYLIST_ID = 'PLhjZEVDFQUHtzHkfv2WzNgyZTPOxeuBHI'
 
 def parse_games_md(file_path):
     games = []
@@ -57,7 +64,87 @@ def match_games_to_videos(games, videos):
         print(f"Processing video: {video_title}")
         print(f"  Video date: {video_date.date()}")
 
+        # Try the original format first
         game_infos = re.findall(r'(\d{2}:\d{2}:\d{2})\s+(Win|Loss)\s+(.*)', video_description or '', re.IGNORECASE)
+        
+        # If no matches, try the chapter/game details format
+        if not game_infos:
+            # Look for chapter timestamps and game results
+            # Updated pattern to be more flexible and capture all games
+            description_lines = (video_description or '').split('\n')
+            
+            for i, line in enumerate(description_lines):
+                # Look for game sections with timestamps
+                game_match = re.search(r'Game\s+(\d+)\s+\((\d{1,2}:\d{2}:\d{2})\)', line, re.IGNORECASE)
+                if game_match:
+                    game_time = game_match.group(2)
+                    
+                    # Look for opponent and result in the next few lines
+                    for j in range(i+1, min(i+6, len(description_lines))):
+                        next_line = description_lines[j]
+                        
+                        # Look for opponent line
+                        opponent_match = re.search(r'Opponent:\s+([^(]+)\(([^)]+)\)', next_line, re.IGNORECASE)
+                        
+                        # Look for result line  
+                        result_match = re.search(r'Result:\s+(Win|Loss)', next_line, re.IGNORECASE)
+                        
+                        if opponent_match and result_match:
+                            opponent_name = opponent_match.group(1).strip()
+                            opponent_civ = opponent_match.group(2).strip()
+                            result = result_match.group(1)
+                            
+                            # Convert to HH:MM:SS format if needed
+                            time_parts = game_time.split(':')
+                            if len(time_parts) == 3:
+                                formatted_time = game_time
+                            elif len(time_parts) == 2:
+                                formatted_time = f"0:{game_time}"
+                            else:
+                                continue
+                                
+                            # Create match info from the parsed data
+                            match_info = f"vs {opponent_civ} ({opponent_name})"
+                            game_infos.append((formatted_time, result, match_info))
+                            print(f"    Found game: {formatted_time} {result} {match_info}")
+                            break
+                        elif opponent_match or result_match:
+                            # Found one but not both, keep looking in same section
+                            opponent_info = opponent_match if opponent_match else None
+                            result_info = result_match if result_match else None
+                            
+                            # Continue searching for the missing piece
+                            for k in range(j+1, min(i+8, len(description_lines))):
+                                additional_line = description_lines[k]
+                                if not opponent_info:
+                                    opponent_match = re.search(r'Opponent:\s+([^(]+)\(([^)]+)\)', additional_line, re.IGNORECASE)
+                                    if opponent_match:
+                                        opponent_info = opponent_match
+                                if not result_info:
+                                    result_match = re.search(r'Result:\s+(Win|Loss)', additional_line, re.IGNORECASE)
+                                    if result_match:
+                                        result_info = result_match
+                                
+                                if opponent_info and result_info:
+                                    opponent_name = opponent_info.group(1).strip()
+                                    opponent_civ = opponent_info.group(2).strip()
+                                    result = result_info.group(1)
+                                    
+                                    # Convert to HH:MM:SS format if needed
+                                    time_parts = game_time.split(':')
+                                    if len(time_parts) == 3:
+                                        formatted_time = game_time
+                                    elif len(time_parts) == 2:
+                                        formatted_time = f"0:{game_time}"
+                                    else:
+                                        continue
+                                        
+                                    # Create match info from the parsed data
+                                    match_info = f"vs {opponent_civ} ({opponent_name})"
+                                    game_infos.append((formatted_time, result, match_info))
+                                    print(f"    Found game: {formatted_time} {result} {match_info}")
+                                    break
+        
         print(f"  Found {len(game_infos)} games in video description")
         
         for time_str, result, match_info in game_infos:
