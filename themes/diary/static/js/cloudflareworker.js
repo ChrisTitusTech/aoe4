@@ -1,25 +1,49 @@
 async function handleRequest(request, env) {
+  // Handle CORS preflight requests
+  if (request.method === 'OPTIONS') {
+    return handleCORS();
+  }
+
   const url = new URL(request.url);
   console.log("Received request for:", url.pathname);
 
+  let response;
   if (url.pathname === '/api/check-status') {
-    return await checkStatus(request, env);
-  }
-  
-  if (url.pathname === '/api/get-last-video') {
-    return await getLastVideo(request, env);
-  }
-  
-  if (url.pathname === '/api/' || url.pathname === '/api') {
-    return new Response('Welcome to the Twitch status checker API!', {
+    response = await checkStatus(request, env);
+  } else if (url.pathname === '/api/get-last-video') {
+    response = await getLastVideo(request, env);
+  } else if (url.pathname === '/api/' || url.pathname === '/api') {
+    response = new Response('Welcome to the Twitch status checker API!', {
+      headers: { 'Content-Type': 'text/plain' }
+    });
+  } else {
+    response = new Response(`Not Found: ${url.pathname}`, { 
+      status: 404,
       headers: { 'Content-Type': 'text/plain' }
     });
   }
-  
-  return new Response(`Not Found: ${url.pathname}`, { 
-    status: 404,
-    headers: { 'Content-Type': 'text/plain' }
+
+  // Add CORS headers to all responses
+  return addCORSHeaders(response);
+}
+
+function handleCORS() {
+  return new Response(null, {
+    headers: {
+      'Access-Control-Allow-Origin': 'https://aoe4.christitus.com',
+      'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+      'Access-Control-Allow-Headers': 'Content-Type',
+      'Access-Control-Max-Age': '86400',
+    }
   });
+}
+
+function addCORSHeaders(response) {
+  const newResponse = new Response(response.body, response);
+  newResponse.headers.set('Access-Control-Allow-Origin', 'https://aoe4.christitus.com');
+  newResponse.headers.set('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+  newResponse.headers.set('Access-Control-Allow-Headers', 'Content-Type');
+  return newResponse;
 }
 
 async function checkStatus(request, env) {

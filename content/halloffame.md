@@ -8,9 +8,6 @@ categories: Streams
 comment: true
 draft: false
 ---
-
-# Hall of Fame
-
 ### Best Wins
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
