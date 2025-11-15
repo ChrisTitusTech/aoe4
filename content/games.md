@@ -14,6 +14,11 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| [2025-11-15 22:04](https://www.youtube.com/watch?v=uBdVeEblHQI&t=5589) | Win | Japanese vs Tughlaq Dynasty (MadCaptainMatt) | 865 | -13 |  |
+| [2025-11-15 21:39](https://www.youtube.com/watch?v=uBdVeEblHQI&t=4052) | Loss | Japanese vs French (IVtheW) | None | N/A |  |
+| [2025-11-15 21:11](https://www.youtube.com/watch?v=uBdVeEblHQI&t=2377) | Loss | Japanese vs Macedonian Dynasty (Elias2pac) | None | N/A |  |
+| [2025-11-15 20:46](https://www.youtube.com/watch?v=uBdVeEblHQI&t=902) | Loss | Japanese vs Macedonian Dynasty (djkorb) | 786 | -161 |  |
+| [2025-11-15 20:34](https://www.youtube.com/watch?v=uBdVeEblHQI&t=177) | Win | Japanese vs Golden Horde (Magla_Medo) | 943 | 20 |  |
 | [2025-11-15 04:24](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=6159) | Win | Macedonian Dynasty vs Jeanne Darc (XxShotCallerzxX) | 886 | -14 |  |
 | [2025-11-15 03:49](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=4091) | Loss | Macedonian Dynasty vs English (aboy_lj) | 939 | 16 |  |
 | [2025-11-15 03:29](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=2884) | Win | Macedonian Dynasty vs Holy Roman Empire (Neigeur) | None | N/A |  |

@@ -36,7 +36,7 @@ draft: false
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
 | 2025-11-11 03:09 | Win | Macedonian Dynasty vs Macedonian Dynasty (TheLastOfUs) | 982 | 29 |
-| 2025-11-15 02:43 | Win | Macedonian Dynasty vs Golden Horde (MyLife4Aiur) | 979 | 79 |
+| [2025-11-15 02:43](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=87) | Win | Macedonian Dynasty vs Golden Horde (MyLife4Aiur) | 979 | 79 |
 | 2025-11-04 02:56 | Win | House Of Lancaster vs Ayyubids (Vegboy) | 950 | N/A |
 
 ### 2024
@@ -54,9 +54,9 @@ draft: false
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2025-11-15 20:46 | Loss | Japanese vs Macedonian Dynasty (djkorb) | 786 | -161 |
 | [2025-11-13 19:54](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=2217) | Loss | Macedonian Dynasty vs French (maripet99) | 803 | -170 |
 | [2025-11-13 21:36](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=8305) | Loss | Japanese vs Holy Roman Empire (Mako) | 871 | -55 |
-| 2025-11-08 04:09 | Loss | Macedonian Dynasty vs French (迪克·佩恩) | 908 | N/A |
 
 ### 2024
 
