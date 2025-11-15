@@ -66,8 +66,9 @@ def match_games_to_videos(games, videos):
         print(f"Processing video: {video_title}")
         print(f"  Video date: {video_date.date()}")
 
-        # Try the original format first
-        game_infos = re.findall(r'(\d{2}:\d{2}:\d{2})\s+(Win|Loss)\s+(.*)', video_description or '', re.IGNORECASE)
+        # Try the original format first - matches format like:
+        # "00:01:27 Win Macedonian Dynasty vs Golden Horde (MyLife4Aiur)"
+        game_infos = re.findall(r'(\d{1,2}:\d{2}:\d{2})\s+(Win|Loss)\s+(.+(?:vs|v\.s\.|versus).+\([^)]+\))', video_description or '', re.IGNORECASE)
         
         # If no matches, try the chapter/game details format
         if not game_infos:

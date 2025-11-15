@@ -8,6 +8,7 @@ categories: Streams
 comment: true
 draft: false
 ---
+
 ## Overall Best Wins
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
@@ -35,8 +36,8 @@ draft: false
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
 | 2025-11-11 03:09 | Win | Macedonian Dynasty vs Macedonian Dynasty (TheLastOfUs) | 982 | 29 |
+| 2025-11-15 02:43 | Win | Macedonian Dynasty vs Golden Horde (MyLife4Aiur) | 979 | 79 |
 | 2025-11-04 02:56 | Win | House Of Lancaster vs Ayyubids (Vegboy) | 950 | N/A |
-| 2025-11-10 01:37 | Win | Macedonian Dynasty vs Japanese (Khaif3797) | 927 | -1 |
 
 ### 2024
 

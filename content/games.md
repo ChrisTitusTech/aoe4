@@ -14,6 +14,11 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| [2025-11-15 04:24](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=6159) | Win | Macedonian Dynasty vs Jeanne Darc (XxShotCallerzxX) | 886 | -14 |  |
+| [2025-11-15 03:49](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=4091) | Loss | Macedonian Dynasty vs English (aboy_lj) | 939 | 16 |  |
+| [2025-11-15 03:29](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=2884) | Win | Macedonian Dynasty vs Holy Roman Empire (Neigeur) | None | N/A |  |
+| [2025-11-15 03:09](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=1660) | Loss | Macedonian Dynasty vs Macedonian Dynasty (If you know what i mean ;)) | 937 | 15 |  |
+| [2025-11-15 02:43](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=87) | Win | Macedonian Dynasty vs Golden Horde (MyLife4Aiur) | 979 | 79 |  |
 | [2025-11-13 21:36](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=8305) | Loss | Japanese vs Holy Roman Empire (Mako) | 871 | -55 |  |
 | [2025-11-13 20:38](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=4851) | Loss | Macedonian Dynasty vs Macedonian Dynasty (Rivotril) | None | N/A |  |
 | [2025-11-13 19:54](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=2217) | Loss | Macedonian Dynasty vs French (maripet99) | 803 | -170 |  |
