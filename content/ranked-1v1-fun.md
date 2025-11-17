@@ -84,3 +84,7 @@ Less can be more:
 ## Conclusion
 
 Ranked 1v1 in Age of Empires IV becomes enjoyable when you shift focus from purely winning to improving and having fun. By implementing these strategies, you'll find yourself looking forward to ranked matches rather than dreading them. The best part? As your enjoyment increases, your gameplay naturally improves, creating a positive feedback loop that benefits both your ranking and your overall experience.
+
+## YouTube Video
+
+{{< youtube tLBX7XvGrqs >}}
