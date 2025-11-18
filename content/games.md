@@ -14,6 +14,12 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| [2025-11-18 21:08](https://www.youtube.com/watch?v=vaTCgbJk884&t=10194) | Win | Macedonian Dynasty vs Holy Roman Empire (Onur) | None | N/A |  |
+| [2025-11-18 20:25](https://www.youtube.com/watch?v=vaTCgbJk884&t=7603) | Loss | House Of Lancaster vs Knights Templar (Auriz) | 731 | -89 |  |
+| [2025-11-18 19:56](https://www.youtube.com/watch?v=vaTCgbJk884&t=5900) | Loss | House Of Lancaster vs Order Of The Dragon (Pjötö) | 873 | 34 |  |
+| [2025-11-18 19:18](https://www.youtube.com/watch?v=vaTCgbJk884&t=3619) | Loss | House Of Lancaster vs Knights Templar (Leblob 73) | 899 | 42 |  |
+| [2025-11-18 18:48](https://www.youtube.com/watch?v=vaTCgbJk884&t=1828) | Loss | House Of Lancaster vs French (D4rkk) | 906 | 24 |  |
+| [2025-11-18 18:21](https://www.youtube.com/watch?v=vaTCgbJk884&t=180) | Loss | House Of Lancaster vs Japanese (ozboss) | 687 | -220 |  |
 | [2025-11-15 22:04](https://www.youtube.com/watch?v=uBdVeEblHQI&t=5589) | Win | Japanese vs Tughlaq Dynasty (MadCaptainMatt) | 865 | -13 |  |
 | [2025-11-15 21:39](https://www.youtube.com/watch?v=uBdVeEblHQI&t=4052) | Loss | Japanese vs French (IVtheW) | None | N/A |  |
 | [2025-11-15 21:11](https://www.youtube.com/watch?v=uBdVeEblHQI&t=2377) | Loss | Japanese vs Macedonian Dynasty (Elias2pac) | None | N/A |  |
@@ -36,6 +42,7 @@ Live Streams from Twitch and YouTube
 | 2025-11-09 20:23 | Win | Macedonian Dynasty vs Jeanne Darc (Planetarian) | None | N/A |
 | 2025-11-09 20:00 | Win | Macedonian Dynasty vs French (Wider_panda) | 772 | N/A |
 | 2025-11-08 04:09 | Loss | Macedonian Dynasty vs French (迪克·佩恩) | 908 | N/A |
+| 2025-11-08 04:09 | Loss | Macedonian Dynasty vs French (有个更好的开始) | 908 | N/A |
 | 2025-11-08 03:40 | Win | Macedonian Dynasty vs English (Mr MonkeyJones) | 797 | N/A |
 | 2025-11-07 21:02 | Win | Macedonian Dynasty vs English (JMirandaN7) | 695 | N/A |
 | 2025-11-04 02:56 | Win | House Of Lancaster vs Ayyubids (Vegboy) | 950 | N/A |

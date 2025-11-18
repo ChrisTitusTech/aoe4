@@ -54,9 +54,9 @@ draft: false
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
-| 2025-11-15 20:46 | Loss | Japanese vs Macedonian Dynasty (djkorb) | 786 | -161 |
-| [2025-11-13 19:54](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=2217) | Loss | Macedonian Dynasty vs French (maripet99) | 803 | -170 |
-| [2025-11-13 21:36](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=8305) | Loss | Japanese vs Holy Roman Empire (Mako) | 871 | -55 |
+| 2025-11-18 18:21 | Loss | House Of Lancaster vs Japanese (ozboss) | 687 | -220 |
+| 2025-11-18 20:25 | Loss | House Of Lancaster vs Knights Templar (Auriz) | 731 | -89 |
+| [2025-11-15 20:46](https://www.youtube.com/watch?v=uBdVeEblHQI&t=902) | Loss | Japanese vs Macedonian Dynasty (djkorb) | 786 | -161 |
 
 ### 2024
 
