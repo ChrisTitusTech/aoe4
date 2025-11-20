@@ -14,6 +14,7 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2025-11-20 03:34 | Win | House Of Lancaster vs Knights Templar (Phillip II - King) | 876 | 11 |
 | 2025-11-19 03:48 | Win | House Of Lancaster vs Mongols (Hutchkins) | 709 | -124 |
 | [2025-11-18 21:08](https://www.youtube.com/watch?v=vaTCgbJk884&t=10194) | Win | Macedonian Dynasty vs Holy Roman Empire (Onur) | None | N/A |  |
 | [2025-11-18 20:25](https://www.youtube.com/watch?v=vaTCgbJk884&t=7603) | Loss | House Of Lancaster vs Knights Templar (Auriz) | 731 | -89 |  |
