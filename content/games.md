@@ -14,6 +14,11 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2025-11-21 03:08 | Win | Japanese vs Sengoku Daimyo (festae00) | 832 | -101 |
+| 2025-11-21 02:37 | Loss | House Of Lancaster vs Sengoku Daimyo (Ragnarlodbrk972) | 898 | -60 |
+| 2025-11-21 02:21 | Win | House Of Lancaster vs Chinese (sandcastle412) | None | N/A |
+| 2025-11-21 01:56 | Win | House Of Lancaster vs Byzantines (prole1) | 911 | 1 |
+| 2025-11-21 01:20 | Win | House Of Lancaster vs English (nilo_cba) | 860 | -28 |
 | 2025-11-20 03:34 | Win | House Of Lancaster vs Knights Templar (Phillip II - King) | 876 | 11 |
 | 2025-11-19 03:48 | Win | House Of Lancaster vs Mongols (Hutchkins) | 709 | -124 |
 | [2025-11-18 21:08](https://www.youtube.com/watch?v=vaTCgbJk884&t=10194) | Win | Macedonian Dynasty vs Holy Roman Empire (Onur) | None | N/A |  |
