@@ -14,6 +14,7 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2025-11-22 05:55 | Win | House Of Lancaster vs Ottomans (Krabnec) | 855 | -99 |
 | [2025-11-21 03:08](https://www.youtube.com/watch?v=1G__p1Wqcok&t=6597) | Win | Japanese vs Sengoku Daimyo (festae00) | 832 | -101 |  |
 | [2025-11-21 02:37](https://www.youtube.com/watch?v=1G__p1Wqcok&t=4758) | Loss | House Of Lancaster vs Sengoku Daimyo (Ragnarlodbrk972) | 898 | -60 |  |
 | [2025-11-21 02:21](https://www.youtube.com/watch?v=1G__p1Wqcok&t=3763) | Win | House Of Lancaster vs Chinese (sandcastle412) | None | N/A |  |
