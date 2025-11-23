@@ -14,6 +14,11 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2025-11-23 04:48 | Win | House Of Lancaster vs English (cammy010) | 944 | 21 |
+| 2025-11-22 22:37 | Loss | House Of Lancaster vs Holy Roman Empire (BoxTurtleman) | 851 | -96 |
+| 2025-11-22 22:20 | Win | House Of Lancaster vs Japanese (Insano) | None | N/A |
+| 2025-11-22 21:49 | Loss | House Of Lancaster vs Ottomans (SurgeoNeer) | 736 | -212 |
+| 2025-11-22 21:23 | Loss | House Of Lancaster vs Ottomans (bg85) | 900 | -74 |
 | 2025-11-22 05:55 | Win | House Of Lancaster vs Ottomans (Krabnec) | 855 | -99 |
 | [2025-11-21 03:08](https://www.youtube.com/watch?v=1G__p1Wqcok&t=6597) | Win | Japanese vs Sengoku Daimyo (festae00) | 832 | -101 |  |
 | [2025-11-21 02:37](https://www.youtube.com/watch?v=1G__p1Wqcok&t=4758) | Loss | House Of Lancaster vs Sengoku Daimyo (Ragnarlodbrk972) | 898 | -60 |  |
