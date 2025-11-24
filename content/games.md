@@ -14,6 +14,12 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2025-11-24 06:09 | Win | House Of Lancaster vs French (JeWiShAtHlEtE9) | 928 | -44 |
+| 2025-11-24 05:43 | Loss | Macedonian Dynasty vs Japanese (克里克伯爵) | 967 | -29 |
+| 2025-11-24 05:03 | Loss | Japanese vs Macedonian Dynasty (Volstatem) | 1026 | 10 |
+| 2025-11-24 01:29 | Win | Japanese vs Knights Templar (MartyMcFly5788) | None | N/A |
+| 2025-11-23 23:29 | Win | House Of Lancaster vs Knights Templar (aichi123daaa) | 909 | -60 |
+| 2025-11-23 20:46 | Win | House Of Lancaster vs French (Binouse) | None | N/A |
 | 2025-11-23 04:48 | Win | House Of Lancaster vs English (cammy010) | 944 | 21 |
 | 2025-11-22 22:37 | Loss | House Of Lancaster vs Holy Roman Empire (BoxTurtleman) | 851 | -96 |
 | 2025-11-22 22:20 | Win | House Of Lancaster vs Japanese (Insano) | None | N/A |
