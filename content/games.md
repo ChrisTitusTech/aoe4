@@ -14,6 +14,11 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| [2025-11-24 22:30](https://www.youtube.com/watch?v=ffzXoX0TafA&t=7441) | Win | House Of Lancaster vs Japanese (Jeremka) | 910 | -39 |  |
+| [2025-11-24 22:08](https://www.youtube.com/watch?v=ffzXoX0TafA&t=6096) | Loss | House Of Lancaster vs Jeanne Darc (eduardogmtq) | 939 | -33 |  |
+| [2025-11-24 21:39](https://www.youtube.com/watch?v=ffzXoX0TafA&t=4331) | Loss | House Of Lancaster vs Macedonian Dynasty (Honda Prelude 4g 2.3i) | 957 | -39 |  |
+| [2025-11-24 20:52](https://www.youtube.com/watch?v=ffzXoX0TafA&t=1540) | Loss | House Of Lancaster vs Knights Templar (callumcreegan) | None | N/A |  |
+| [2025-11-24 20:29](https://www.youtube.com/watch?v=ffzXoX0TafA&t=132) | Win | House Of Lancaster vs Sengoku Daimyo (CucumbaFinga) | 1050 | 55 |  |
 | 2025-11-24 06:09 | Win | House Of Lancaster vs French (JeWiShAtHlEtE9) | 928 | -44 |
 | 2025-11-24 05:43 | Loss | Macedonian Dynasty vs Japanese (克里克伯爵) | 967 | -29 |
 | 2025-11-24 05:03 | Loss | Japanese vs Macedonian Dynasty (Volstatem) | 1026 | 10 |

@@ -14,10 +14,10 @@ draft: false
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
 | 2024-11-09 21:18 | Win | Japanese vs English (cranecrusher) | 1061 | -4 |
+| 2025-11-24 20:29 | Win | House Of Lancaster vs Sengoku Daimyo (CucumbaFinga) | 1050 | 55 |
 | 2024-11-25 22:14 | Win | Ayyubids vs Delhi Sultanate (CAESAR) | 1026 | 135 |
 | 2024-11-09 04:21 | Win | Japanese vs Delhi Sultanate (PO3) | 1007 | -14 |
 | 2024-11-09 04:21 | Win | Japanese vs Delhi Sultanate (InLost) | 1007 | -14 |
-| 2024-11-08 04:46 | Win | Japanese vs French (ジン) | 1003 | 48 |
 
 ## Overall Worst Losses
 
@@ -35,9 +35,9 @@ draft: false
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2025-11-24 20:29 | Win | House Of Lancaster vs Sengoku Daimyo (CucumbaFinga) | 1050 | 55 |
 | 2025-11-11 03:09 | Win | Macedonian Dynasty vs Macedonian Dynasty (TheLastOfUs) | 982 | 29 |
 | [2025-11-15 02:43](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=87) | Win | Macedonian Dynasty vs Golden Horde (MyLife4Aiur) | 979 | 79 |
-| 2025-11-04 02:56 | Win | House Of Lancaster vs Ayyubids (Vegboy) | 950 | N/A |
 
 ### 2024
 
@@ -56,7 +56,7 @@ draft: false
 |---------------|--------|---------|-----------------|----------------|
 | [2025-11-18 18:21](https://www.youtube.com/watch?v=vaTCgbJk884&t=180) | Loss | House Of Lancaster vs Japanese (ozboss) | 687 | -220 |
 | [2025-11-18 20:25](https://www.youtube.com/watch?v=vaTCgbJk884&t=7603) | Loss | House Of Lancaster vs Knights Templar (Auriz) | 731 | -89 |
-| [2025-11-15 20:46](https://www.youtube.com/watch?v=uBdVeEblHQI&t=902) | Loss | Japanese vs Macedonian Dynasty (djkorb) | 786 | -161 |
+| 2025-11-22 21:49 | Loss | House Of Lancaster vs Ottomans (SurgeoNeer) | 736 | -212 |
 
 ### 2024
 
