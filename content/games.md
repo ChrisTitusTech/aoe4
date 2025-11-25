@@ -14,6 +14,9 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2025-11-25 02:14 | Loss | House Of Lancaster vs Order Of The Dragon (遗憾托付科幻) | 889 | -87 |
+| 2025-11-25 02:12 | Win | House Of Lancaster vs Sengoku Daimyo (ramazine12) | 1017 | 67 |
+| 2025-11-25 01:46 | Loss | House Of Lancaster vs Ayyubids (Mr. Refreshing) | 714 | -257 |
 | [2025-11-24 22:30](https://www.youtube.com/watch?v=ffzXoX0TafA&t=7441) | Win | House Of Lancaster vs Japanese (Jeremka) | 910 | -39 |  |
 | [2025-11-24 22:08](https://www.youtube.com/watch?v=ffzXoX0TafA&t=6096) | Loss | House Of Lancaster vs Jeanne Darc (eduardogmtq) | 939 | -33 |  |
 | [2025-11-24 21:39](https://www.youtube.com/watch?v=ffzXoX0TafA&t=4331) | Loss | House Of Lancaster vs Macedonian Dynasty (Honda Prelude 4g 2.3i) | 957 | -39 |  |
