@@ -14,6 +14,9 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2025-12-01 05:56 | Win | Japanese vs English (木柜子千早爱音) | 610 | -337 |
+| 2025-12-01 05:36 | Loss | Japanese vs French (熊霸天) | 969 | -5 |
+| 2025-12-01 03:24 | Win | Japanese vs Knights Templar (Stevie) | 876 | -77 |
 | 2025-11-25 02:14 | Loss | House Of Lancaster vs Order Of The Dragon (遗憾托付科幻) | 889 | -87 |
 | 2025-11-25 02:12 | Win | House Of Lancaster vs Sengoku Daimyo (ramazine12) | 1017 | 67 |
 | 2025-11-25 01:46 | Loss | House Of Lancaster vs Ayyubids (Mr. Refreshing) | 714 | -257 |
