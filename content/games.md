@@ -14,9 +14,11 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2025-12-03 04:30 | Win | Japanese vs Chinese (GoodPooper) | 944 | -1 |
 | 2025-12-02 05:47 | Win | Japanese vs Chinese (H-Sam_MT) | 1003 | 84 |
 | 2025-12-02 04:11 | Loss | Japanese vs Zhu Xis Legacy (knight) | 921 | -22 |
 | 2025-12-02 03:46 | Loss | Japanese vs Knights Templar (XII. Constantine the Great) | 994 | 26 |
+| 2025-12-02 03:46 | Loss | Japanese vs Knights Templar (Magister Templi) | 994 | 26 |
 | 2025-12-01 05:56 | Win | Japanese vs English (木柜子千早爱音) | 610 | -337 |
 | 2025-12-01 05:36 | Loss | Japanese vs French (熊霸天) | 969 | -5 |
 | 2025-12-01 03:24 | Win | Japanese vs Knights Templar (Stevie) | 876 | -77 |
