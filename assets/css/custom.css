@@ -99,3 +99,12 @@ body.night #streamContainer > div > div {
   font-size: 0.9em;
   color: #6c757d;
 }
+
+/* YouTube icon in tables */
+table img[alt="YouTube"] {
+  display: inline-block;
+  height: 1em;
+  width: auto;
+  vertical-align: middle;
+  margin-left: 0.25em;
+}
