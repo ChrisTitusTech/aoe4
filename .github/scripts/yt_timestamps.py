@@ -244,7 +244,7 @@ def update_markdown_with_links(markdown_content, matched_games):
                 if not date_time.startswith('['):
                     for game_date, timestamp in matched_games:
                         if game_date == date_time:
-                            parts[1] = f'[{date_time}]({timestamp})'
+                            parts[1] = f'[{date_time}]({timestamp}) ![YouTube](/images/youtube.svg)'
                             lines[i] = '| ' + ' | '.join(parts[1:]) + ' |'
                             break
 

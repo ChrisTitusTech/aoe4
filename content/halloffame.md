@@ -37,7 +37,7 @@ draft: false
 |---------------|--------|---------|-----------------|----------------|
 | 2025-11-24 20:29 | Win | House Of Lancaster vs Sengoku Daimyo (CucumbaFinga) | 1050 | 55 |
 | 2025-11-11 03:09 | Win | Macedonian Dynasty vs Macedonian Dynasty (TheLastOfUs) | 982 | 29 |
-| [2025-11-15 02:43](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=87) | Win | Macedonian Dynasty vs Golden Horde (MyLife4Aiur) | 979 | 79 |
+| [2025-11-15 02:43](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=87) ![YouTube](/images/youtube.svg) | Win | Macedonian Dynasty vs Golden Horde (MyLife4Aiur) | 979 | 79 |
 
 ### 2024
 
@@ -54,8 +54,8 @@ draft: false
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
-| [2025-11-18 18:21](https://www.youtube.com/watch?v=vaTCgbJk884&t=180) | Loss | House Of Lancaster vs Japanese (ozboss) | 687 | -220 |
-| [2025-11-18 20:25](https://www.youtube.com/watch?v=vaTCgbJk884&t=7603) | Loss | House Of Lancaster vs Knights Templar (Auriz) | 731 | -89 |
+| [2025-11-18 18:21](https://www.youtube.com/watch?v=vaTCgbJk884&t=180) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Japanese (ozboss) | 687 | -220 |
+| [2025-11-18 20:25](https://www.youtube.com/watch?v=vaTCgbJk884&t=7603) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Knights Templar (Auriz) | 731 | -89 |
 | 2025-11-22 21:49 | Loss | House Of Lancaster vs Ottomans (SurgeoNeer) | 736 | -212 |
 
 ### 2024

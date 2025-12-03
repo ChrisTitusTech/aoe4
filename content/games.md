@@ -25,11 +25,11 @@ Live Streams from Twitch and YouTube
 | 2025-11-25 02:14 | Loss | House Of Lancaster vs Order Of The Dragon (遗憾托付科幻) | 889 | -87 |
 | 2025-11-25 02:12 | Win | House Of Lancaster vs Sengoku Daimyo (ramazine12) | 1017 | 67 |
 | 2025-11-25 01:46 | Loss | House Of Lancaster vs Ayyubids (Mr. Refreshing) | 714 | -257 |
-| [2025-11-24 22:30](https://www.youtube.com/watch?v=ffzXoX0TafA&t=7441) | Win | House Of Lancaster vs Japanese (Jeremka) | 910 | -39 |  |
-| [2025-11-24 22:08](https://www.youtube.com/watch?v=ffzXoX0TafA&t=6096) | Loss | House Of Lancaster vs Jeanne Darc (eduardogmtq) | 939 | -33 |  |
-| [2025-11-24 21:39](https://www.youtube.com/watch?v=ffzXoX0TafA&t=4331) | Loss | House Of Lancaster vs Macedonian Dynasty (Honda Prelude 4g 2.3i) | 957 | -39 |  |
-| [2025-11-24 20:52](https://www.youtube.com/watch?v=ffzXoX0TafA&t=1540) | Loss | House Of Lancaster vs Knights Templar (callumcreegan) | None | N/A |  |
-| [2025-11-24 20:29](https://www.youtube.com/watch?v=ffzXoX0TafA&t=132) | Win | House Of Lancaster vs Sengoku Daimyo (CucumbaFinga) | 1050 | 55 |  |
+| [2025-11-24 22:30](https://www.youtube.com/watch?v=ffzXoX0TafA&t=7441) ![YouTube](/images/youtube.svg) | Win | House Of Lancaster vs Japanese (Jeremka) | 910 | -39 |  |
+| [2025-11-24 22:08](https://www.youtube.com/watch?v=ffzXoX0TafA&t=6096) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Jeanne Darc (eduardogmtq) | 939 | -33 |  |
+| [2025-11-24 21:39](https://www.youtube.com/watch?v=ffzXoX0TafA&t=4331) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Macedonian Dynasty (Honda Prelude 4g 2.3i) | 957 | -39 |  |
+| [2025-11-24 20:52](https://www.youtube.com/watch?v=ffzXoX0TafA&t=1540) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Knights Templar (callumcreegan) | None | N/A |  |
+| [2025-11-24 20:29](https://www.youtube.com/watch?v=ffzXoX0TafA&t=132) ![YouTube](/images/youtube.svg) | Win | House Of Lancaster vs Sengoku Daimyo (CucumbaFinga) | 1050 | 55 |  |
 | 2025-11-24 06:09 | Win | House Of Lancaster vs French (JeWiShAtHlEtE9) | 928 | -44 |
 | 2025-11-24 05:43 | Loss | Macedonian Dynasty vs Japanese (克里克伯爵) | 967 | -29 |
 | 2025-11-24 05:03 | Loss | Japanese vs Macedonian Dynasty (Volstatem) | 1026 | 10 |
@@ -42,33 +42,33 @@ Live Streams from Twitch and YouTube
 | 2025-11-22 21:49 | Loss | House Of Lancaster vs Ottomans (SurgeoNeer) | 736 | -212 |
 | 2025-11-22 21:23 | Loss | House Of Lancaster vs Ottomans (bg85) | 900 | -74 |
 | 2025-11-22 05:55 | Win | House Of Lancaster vs Ottomans (Krabnec) | 855 | -99 |
-| [2025-11-21 03:08](https://www.youtube.com/watch?v=1G__p1Wqcok&t=6597) | Win | Japanese vs Sengoku Daimyo (festae00) | 832 | -101 |  |
-| [2025-11-21 02:37](https://www.youtube.com/watch?v=1G__p1Wqcok&t=4758) | Loss | House Of Lancaster vs Sengoku Daimyo (Ragnarlodbrk972) | 898 | -60 |  |
-| [2025-11-21 02:21](https://www.youtube.com/watch?v=1G__p1Wqcok&t=3763) | Win | House Of Lancaster vs Chinese (sandcastle412) | None | N/A |  |
-| [2025-11-21 01:56](https://www.youtube.com/watch?v=1G__p1Wqcok&t=2261) | Win | House Of Lancaster vs Byzantines (prole1) | 911 | 1 |  |
-| [2025-11-21 01:20](https://www.youtube.com/watch?v=1G__p1Wqcok&t=133) | Win | House Of Lancaster vs English (nilo_cba) | 860 | -28 |  |
+| [2025-11-21 03:08](https://www.youtube.com/watch?v=1G__p1Wqcok&t=6597) ![YouTube](/images/youtube.svg) | Win | Japanese vs Sengoku Daimyo (festae00) | 832 | -101 |  |
+| [2025-11-21 02:37](https://www.youtube.com/watch?v=1G__p1Wqcok&t=4758) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Sengoku Daimyo (Ragnarlodbrk972) | 898 | -60 |  |
+| [2025-11-21 02:21](https://www.youtube.com/watch?v=1G__p1Wqcok&t=3763) ![YouTube](/images/youtube.svg) | Win | House Of Lancaster vs Chinese (sandcastle412) | None | N/A |  |
+| [2025-11-21 01:56](https://www.youtube.com/watch?v=1G__p1Wqcok&t=2261) ![YouTube](/images/youtube.svg) | Win | House Of Lancaster vs Byzantines (prole1) | 911 | 1 |  |
+| [2025-11-21 01:20](https://www.youtube.com/watch?v=1G__p1Wqcok&t=133) ![YouTube](/images/youtube.svg) | Win | House Of Lancaster vs English (nilo_cba) | 860 | -28 |  |
 | 2025-11-20 03:34 | Win | House Of Lancaster vs Knights Templar (Phillip II - King) | 876 | 11 |
 | 2025-11-19 03:48 | Win | House Of Lancaster vs Mongols (Hutchkins) | 709 | -124 |
-| [2025-11-18 21:08](https://www.youtube.com/watch?v=vaTCgbJk884&t=10194) | Win | Macedonian Dynasty vs Holy Roman Empire (Onur) | None | N/A |  |
-| [2025-11-18 20:25](https://www.youtube.com/watch?v=vaTCgbJk884&t=7603) | Loss | House Of Lancaster vs Knights Templar (Auriz) | 731 | -89 |  |
-| [2025-11-18 19:56](https://www.youtube.com/watch?v=vaTCgbJk884&t=5900) | Loss | House Of Lancaster vs Order Of The Dragon (Pjötö) | 873 | 34 |  |
-| [2025-11-18 19:18](https://www.youtube.com/watch?v=vaTCgbJk884&t=3619) | Loss | House Of Lancaster vs Knights Templar (Leblob 73) | 899 | 42 |  |
-| [2025-11-18 18:48](https://www.youtube.com/watch?v=vaTCgbJk884&t=1828) | Loss | House Of Lancaster vs French (D4rkk) | 906 | 24 |  |
-| [2025-11-18 18:21](https://www.youtube.com/watch?v=vaTCgbJk884&t=180) | Loss | House Of Lancaster vs Japanese (ozboss) | 687 | -220 |  |
-| [2025-11-15 22:04](https://www.youtube.com/watch?v=uBdVeEblHQI&t=5589) | Win | Japanese vs Tughlaq Dynasty (MadCaptainMatt) | 865 | -13 |  |
-| [2025-11-15 21:39](https://www.youtube.com/watch?v=uBdVeEblHQI&t=4052) | Loss | Japanese vs French (IVtheW) | None | N/A |  |
-| [2025-11-15 21:11](https://www.youtube.com/watch?v=uBdVeEblHQI&t=2377) | Loss | Japanese vs Macedonian Dynasty (Elias2pac) | None | N/A |  |
-| [2025-11-15 20:46](https://www.youtube.com/watch?v=uBdVeEblHQI&t=902) | Loss | Japanese vs Macedonian Dynasty (djkorb) | 786 | -161 |  |
-| [2025-11-15 20:34](https://www.youtube.com/watch?v=uBdVeEblHQI&t=177) | Win | Japanese vs Golden Horde (Magla_Medo) | 943 | 20 |  |
-| [2025-11-15 04:24](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=6159) | Win | Macedonian Dynasty vs Jeanne Darc (XxShotCallerzxX) | 886 | -14 |  |
-| [2025-11-15 03:49](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=4091) | Loss | Macedonian Dynasty vs English (aboy_lj) | 939 | 16 |  |
-| [2025-11-15 03:29](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=2884) | Win | Macedonian Dynasty vs Holy Roman Empire (Neigeur) | None | N/A |  |
-| [2025-11-15 03:09](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=1660) | Loss | Macedonian Dynasty vs Macedonian Dynasty (If you know what i mean ;)) | 937 | 15 |  |
-| [2025-11-15 02:43](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=87) | Win | Macedonian Dynasty vs Golden Horde (MyLife4Aiur) | 979 | 79 |  |
-| [2025-11-13 21:36](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=8305) | Loss | Japanese vs Holy Roman Empire (Mako) | 871 | -55 |  |
-| [2025-11-13 20:38](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=4851) | Loss | Macedonian Dynasty vs Macedonian Dynasty (Rivotril) | None | N/A |  |
-| [2025-11-13 19:54](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=2217) | Loss | Macedonian Dynasty vs French (maripet99) | 803 | -170 |  |
-| [2025-11-13 19:20](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=130) | Loss | Macedonian Dynasty vs Tughlaq Dynasty (Nobunaga) | 952 | -45 |  |
+| [2025-11-18 21:08](https://www.youtube.com/watch?v=vaTCgbJk884&t=10194) ![YouTube](/images/youtube.svg) | Win | Macedonian Dynasty vs Holy Roman Empire (Onur) | None | N/A |  |
+| [2025-11-18 20:25](https://www.youtube.com/watch?v=vaTCgbJk884&t=7603) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Knights Templar (Auriz) | 731 | -89 |  |
+| [2025-11-18 19:56](https://www.youtube.com/watch?v=vaTCgbJk884&t=5900) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Order Of The Dragon (Pjötö) | 873 | 34 |  |
+| [2025-11-18 19:18](https://www.youtube.com/watch?v=vaTCgbJk884&t=3619) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Knights Templar (Leblob 73) | 899 | 42 |  |
+| [2025-11-18 18:48](https://www.youtube.com/watch?v=vaTCgbJk884&t=1828) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs French (D4rkk) | 906 | 24 |  |
+| [2025-11-18 18:21](https://www.youtube.com/watch?v=vaTCgbJk884&t=180) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Japanese (ozboss) | 687 | -220 |  |anese (ozboss) | 687 | -220 |  |
+| [2025-11-15 22:04](https://www.youtube.com/watch?v=uBdVeEblHQI&t=5589) ![YouTube](/images/youtube.svg) | Win | Japanese vs Tughlaq Dynasty (MadCaptainMatt) | 865 | -13 |  |
+| [2025-11-15 21:39](https://www.youtube.com/watch?v=uBdVeEblHQI&t=4052) ![YouTube](/images/youtube.svg) | Loss | Japanese vs French (IVtheW) | None | N/A |  |
+| [2025-11-15 21:11](https://www.youtube.com/watch?v=uBdVeEblHQI&t=2377) ![YouTube](/images/youtube.svg) | Loss | Japanese vs Macedonian Dynasty (Elias2pac) | None | N/A |  |
+| [2025-11-15 20:46](https://www.youtube.com/watch?v=uBdVeEblHQI&t=902) ![YouTube](/images/youtube.svg) | Loss | Japanese vs Macedonian Dynasty (djkorb) | 786 | -161 |  |
+| [2025-11-15 20:34](https://www.youtube.com/watch?v=uBdVeEblHQI&t=177) ![YouTube](/images/youtube.svg) | Win | Japanese vs Golden Horde (Magla_Medo) | 943 | 20 |  |rde (Magla_Medo) | 943 | 20 |  |
+| [2025-11-15 04:24](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=6159) ![YouTube](/images/youtube.svg) | Win | Macedonian Dynasty vs Jeanne Darc (XxShotCallerzxX) | 886 | -14 |  |
+| [2025-11-15 03:49](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=4091) ![YouTube](/images/youtube.svg) | Loss | Macedonian Dynasty vs English (aboy_lj) | 939 | 16 |  |
+| [2025-11-15 03:29](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=2884) ![YouTube](/images/youtube.svg) | Win | Macedonian Dynasty vs Holy Roman Empire (Neigeur) | None | N/A |  |
+| [2025-11-15 03:09](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=1660) ![YouTube](/images/youtube.svg) | Loss | Macedonian Dynasty vs Macedonian Dynasty (If you know what i mean ;)) | 937 | 15 |  |
+| [2025-11-15 02:43](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=87) ![YouTube](/images/youtube.svg) | Win | Macedonian Dynasty vs Golden Horde (MyLife4Aiur) | 979 | 79 |  |de (MyLife4Aiur) | 979 | 79 |  |
+| [2025-11-13 21:36](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=8305) ![YouTube](/images/youtube.svg) | Loss | Japanese vs Holy Roman Empire (Mako) | 871 | -55 |  |
+| [2025-11-13 20:38](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=4851) ![YouTube](/images/youtube.svg) | Loss | Macedonian Dynasty vs Macedonian Dynasty (Rivotril) | None | N/A |  |
+| [2025-11-13 19:54](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=2217) ![YouTube](/images/youtube.svg) | Loss | Macedonian Dynasty vs French (maripet99) | 803 | -170 |  |
+| [2025-11-13 19:20](https://www.youtube.com/watch?v=X8ylyI8LbqA&t=130) ![YouTube](/images/youtube.svg) | Loss | Macedonian Dynasty vs Tughlaq Dynasty (Nobunaga) | 952 | -45 |  |
 | 2025-11-12 03:14 | Win | Macedonian Dynasty vs Macedonian Dynasty (芜呼呼呼) | 896 | -81 |
 | 2025-11-11 03:09 | Win | Macedonian Dynasty vs Macedonian Dynasty (TheLastOfUs) | 982 | 29 |
 | 2025-11-10 01:37 | Win | Macedonian Dynasty vs Japanese (Khaif3797) | 927 | -1 |
