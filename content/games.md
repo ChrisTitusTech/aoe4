@@ -14,6 +14,8 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2025-12-04 04:08 | Win | Japanese vs English (Breedo) | 883 | -56 |
+| 2025-12-04 02:25 | Loss | Japanese vs English (423678747) | 913 | -52 |
 | 2025-12-03 04:30 | Win | Japanese vs Chinese (GoodPooper) | 944 | -1 |
 | 2025-12-02 05:47 | Win | Japanese vs Chinese (H-Sam_MT) | 1003 | 84 |
 | 2025-12-02 04:11 | Loss | Japanese vs Zhu Xis Legacy (knight) | 921 | -22 |
