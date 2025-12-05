@@ -9,7 +9,9 @@ HALL_OF_FAME_FILE = "content/halloffame.md"
 TITUS_PROFILE_ID = 17272020
 
 def parse_date(date_string):
-    return datetime.strptime(date_string.strip(), "%Y-%m-%d %H:%M")
+    # Remove any trailing text like !YouTube or other annotations
+    date_string = date_string.strip().split('!')[0].strip()
+    return datetime.strptime(date_string, "%Y-%m-%d %H:%M")
 
 def remove_markdown_links(text):
     return re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)
@@ -121,19 +123,22 @@ def update_best_wins_and_worst_losses(games):
         fields = game.split('|')
         if len(fields) >= 5:
             # Strip whitespace from fields to ensure clean comparisons
-            date = fields[1].strip()
+            date_raw = fields[1].strip()
             result = fields[2].strip()
             matchup = fields[3].strip()
             opponent_rating = fields[4].strip()
             
+            # Clean date by removing !YouTube or other annotations
+            date = date_raw.split('!')[0].strip()
+            
             # Debug print to check values
-            print(f"Debug: Processing game - Date: {date}, Result: {result}, Rating: {opponent_rating}")
+            print(f"Debug: Processing game - Date: {date_raw}, Result: {result}, Rating: {opponent_rating}")
             
             game_key = (date, matchup)
             if opponent_rating != 'N/A' and game_key not in seen_games:
                 try:
                     rating = int(opponent_rating)
-                    # Find the full line with links from games.md using more precise pattern matching
+                    # Find the full line with links from games.md using the cleaned date
                     date_pattern = re.escape(date)
                     matchup_pattern = re.escape(matchup)
                     full_line_pattern = f"\\|[^|]*{date_pattern}[^|]*\\|[^|]*{result}[^|]*\\|[^|]*{matchup_pattern}[^|]*\\|[^|]*{opponent_rating}[^|]*\\|[^|]*\\|"

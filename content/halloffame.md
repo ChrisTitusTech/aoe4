@@ -14,10 +14,10 @@ draft: false
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
 | 2024-11-09 21:18 | Win | Japanese vs English (cranecrusher) | 1061 | -4 |
-| 2025-11-24 20:29 | Win | House Of Lancaster vs Sengoku Daimyo (CucumbaFinga) | 1050 | 55 |
+| [2025-11-24 20:29](https://www.youtube.com/watch?v=ffzXoX0TafA&t=132) ![YouTube](/images/youtube.svg) | Win | House Of Lancaster vs Sengoku Daimyo (CucumbaFinga) | 1050 | 55 |
 | 2024-11-25 22:14 | Win | Ayyubids vs Delhi Sultanate (CAESAR) | 1026 | 135 |
+| 2025-11-25 02:12 | Win | House Of Lancaster vs Sengoku Daimyo (ramazine12) | 1017 | 67 |
 | 2024-11-09 04:21 | Win | Japanese vs Delhi Sultanate (PO3) | 1007 | -14 |
-| 2024-11-09 04:21 | Win | Japanese vs Delhi Sultanate (InLost) | 1007 | -14 |
 
 ## Overall Worst Losses
 
@@ -35,9 +35,9 @@ draft: false
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
-| 2025-11-24 20:29 | Win | House Of Lancaster vs Sengoku Daimyo (CucumbaFinga) | 1050 | 55 |
-| 2025-11-11 03:09 | Win | Macedonian Dynasty vs Macedonian Dynasty (TheLastOfUs) | 982 | 29 |
-| [2025-11-15 02:43](https://www.youtube.com/watch?v=9cLC-Q1y4zI&t=87) ![YouTube](/images/youtube.svg) | Win | Macedonian Dynasty vs Golden Horde (MyLife4Aiur) | 979 | 79 |
+| [2025-11-24 20:29](https://www.youtube.com/watch?v=ffzXoX0TafA&t=132) ![YouTube](/images/youtube.svg) | Win | House Of Lancaster vs Sengoku Daimyo (CucumbaFinga) | 1050 | 55 |
+| 2025-11-25 02:12 | Win | House Of Lancaster vs Sengoku Daimyo (ramazine12) | 1017 | 67 |
+| 2025-12-02 05:47 | Win | Japanese vs Chinese (H-Sam_MT) | 1003 | 84 |
 
 ### 2024
 
@@ -55,8 +55,8 @@ draft: false
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
 | [2025-11-18 18:21](https://www.youtube.com/watch?v=vaTCgbJk884&t=180) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Japanese (ozboss) | 687 | -220 |
+| 2025-11-25 01:46 | Loss | House Of Lancaster vs Ayyubids (Mr. Refreshing) | 714 | -257 |
 | [2025-11-18 20:25](https://www.youtube.com/watch?v=vaTCgbJk884&t=7603) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Knights Templar (Auriz) | 731 | -89 |
-| 2025-11-22 21:49 | Loss | House Of Lancaster vs Ottomans (SurgeoNeer) | 736 | -212 |
 
 ### 2024
 

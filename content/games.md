@@ -14,6 +14,10 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| [2025-12-05 04:15](https://www.youtube.com/watch?v=ieT2QgPb0Dk&t=4510) ![YouTube](/images/youtube.svg) | Win | Japanese vs English (emird3stro) | 830 | -109 |  |
+| [2025-12-05 03:43](https://www.youtube.com/watch?v=ieT2QgPb0Dk&t=2617) ![YouTube](/images/youtube.svg) | Loss | Japanese vs Holy Roman Empire (Sicario) | 994 | 32 |  |
+| [2025-12-05 03:03](https://www.youtube.com/watch?v=ieT2QgPb0Dk&t=233) ![YouTube](/images/youtube.svg) | Win | Japanese vs Chinese (vieiralol) | 970 | 33 |  |
+| 2025-12-04 23:27 | Loss | Japanese vs Delhi Sultanate (sai3000) | 933 | -27 |
 | 2025-12-04 04:08 | Win | Japanese vs English (Breedo) | 883 | -56 |
 | 2025-12-04 02:25 | Loss | Japanese vs English (423678747) | 913 | -52 |
 | 2025-12-03 04:30 | Win | Japanese vs Chinese (GoodPooper) | 944 | -1 |
