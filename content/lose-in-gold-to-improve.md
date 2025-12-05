@@ -7,7 +7,7 @@ tags: [strategy, beginner]
 featured_image: "/images/lose-in-gold-to-improve.webp"
 categories: Strategy
 comment: true
-draft: true
+draft: false
 ---
 Losing games in Gold league can be frustrating, but it's often a necessary step toward improvement in Age of Empires IV. This guide outlines strategies to embrace losses and why you should not just find the meta build orders to climb quickly.
 <!--more-->
