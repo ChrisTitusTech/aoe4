@@ -14,6 +14,7 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2025-12-06 22:18 | Win | Macedonian Dynasty vs Japanese (Waki) | 985 | -19 |
 | 2025-12-06 06:46 | Loss | Japanese vs House Of Lancaster (都插了还道歉？) | 984 | -44 |
 | 2025-12-06 06:43 | Win | Japanese vs Sengoku Daimyo (nicepants2004) | 916 | -91 |
 | 2025-12-06 06:41 | Win | Japanese vs Sengoku Daimyo (nicepants2004) | 940 | -44 |
