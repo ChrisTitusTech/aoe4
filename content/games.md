@@ -14,6 +14,9 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2025-12-08 04:55 | Win | Macedonian Dynasty vs English (Alfred.T.G) | 928 | -58 |
+| 2025-12-08 04:23 | Loss | Macedonian Dynasty vs Sengoku Daimyo (Socerton) | 1027 | 20 |
+| 2025-12-08 04:05 | Loss | Macedonian Dynasty vs English (Pissu Pickle) | 1082 | 54 |
 | 2025-12-06 22:18 | Win | Macedonian Dynasty vs Japanese (Waki) | 985 | -19 |
 | 2025-12-06 06:46 | Loss | Japanese vs House Of Lancaster (都插了还道歉？) | 984 | -44 |
 | 2025-12-06 06:43 | Win | Japanese vs Sengoku Daimyo (nicepants2004) | 916 | -91 |
@@ -31,6 +34,7 @@ Live Streams from Twitch and YouTube
 | 2025-12-02 03:46 | Loss | Japanese vs Knights Templar (XII. Constantine the Great) | 994 | 26 |
 | 2025-12-02 03:46 | Loss | Japanese vs Knights Templar (Magister Templi) | 994 | 26 |
 | 2025-12-01 05:56 | Win | Japanese vs English (木柜子千早爱音) | 610 | -337 |
+| 2025-12-01 05:56 | Win | Japanese vs English (英国逃兵千早爱音) | 610 | -337 |
 | 2025-12-01 05:36 | Loss | Japanese vs French (熊霸天) | 969 | -5 |
 | 2025-12-01 03:24 | Win | Japanese vs Knights Templar (Stevie) | 876 | -77 |
 | 2025-11-25 02:14 | Loss | House Of Lancaster vs Order Of The Dragon (遗憾托付科幻) | 889 | -87 |
