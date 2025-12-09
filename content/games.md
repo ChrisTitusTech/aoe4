@@ -14,6 +14,15 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2025-12-09 08:19 | Loss | Japanese vs Ottomans (lime・latte) | 982 | 69 |
+| 2025-12-09 07:33 | Loss | Macedonian Dynasty vs Macedonian Dynasty (憧憬成为海之魔法少女) | None | N/A |
+| 2025-12-09 06:54 | Loss | Macedonian Dynasty vs Golden Horde (Reaper) | 1053 | 94 |
+| 2025-12-09 06:13 | Loss | Macedonian Dynasty vs Knights Templar (Goyia Hsu) | 1126 | 145 |
+| 2025-12-09 05:38 | Loss | Macedonian Dynasty vs Holy Roman Empire (A piece of paper) | 1085 | 83 |
+| 2025-12-09 05:17 | Loss | Macedonian Dynasty vs Tughlaq Dynasty (Geovane Pereira) | 1076 | 51 |
+| 2025-12-09 05:14 | Win | Macedonian Dynasty vs Order Of The Dragon (武昌鱼) | 993 | -9 |
+| 2025-12-09 04:22 | Win | Macedonian Dynasty vs French (Ardy) | 943 | -37 |
+| 2025-12-09 02:49 | Loss | Macedonian Dynasty vs Rus (Srimparable) | 929 | -78 |
 | 2025-12-08 04:55 | Win | Macedonian Dynasty vs English (Alfred.T.G) | 928 | -58 |
 | 2025-12-08 04:23 | Loss | Macedonian Dynasty vs Sengoku Daimyo (Socerton) | 1027 | 20 |
 | 2025-12-08 04:05 | Loss | Macedonian Dynasty vs English (Pissu Pickle) | 1082 | 54 |
