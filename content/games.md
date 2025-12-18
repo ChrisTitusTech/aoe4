@@ -56,6 +56,7 @@ Live Streams from Twitch and YouTube
 | [2025-11-24 22:08](https://www.youtube.com/watch?v=ffzXoX0TafA&t=6096) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Jeanne Darc (eduardogmtq) | 939 | -33 |  |
 | [2025-11-24 21:39](https://www.youtube.com/watch?v=ffzXoX0TafA&t=4331) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Macedonian Dynasty (Honda Prelude 4g 2.3i) | 957 | -39 |  |
 | [2025-11-24 20:52](https://www.youtube.com/watch?v=ffzXoX0TafA&t=1540) ![YouTube](/images/youtube.svg) | Loss | House Of Lancaster vs Knights Templar (callumcreegan) | None | N/A |  |
+| 2025-11-24 20:52 | Loss | House Of Lancaster vs Knights Templar (BootsCreegan) | None | N/A |
 | [2025-11-24 20:29](https://www.youtube.com/watch?v=ffzXoX0TafA&t=132) ![YouTube](/images/youtube.svg) | Win | House Of Lancaster vs Sengoku Daimyo (CucumbaFinga) | 1050 | 55 |  |
 | 2025-11-24 06:09 | Win | House Of Lancaster vs French (JeWiShAtHlEtE9) | 928 | -44 |
 | 2025-11-24 05:43 | Loss | Macedonian Dynasty vs Japanese (克里克伯爵) | 967 | -29 |
