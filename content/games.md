@@ -45,6 +45,7 @@ Live Streams from Twitch and YouTube
 | 2025-12-02 04:11 | Loss | Japanese vs Zhu Xis Legacy (knight) | 921 | -22 |
 | 2025-12-02 03:46 | Loss | Japanese vs Knights Templar (XII. Constantine the Great) | 994 | 26 |
 | 2025-12-02 03:46 | Loss | Japanese vs Knights Templar (Magister Templi) | 994 | 26 |
+| 2025-12-02 03:46 | Loss | Japanese vs Knights Templar (VI. Aleksandros the Great) | 994 | 26 |
 | 2025-12-01 05:56 | Win | Japanese vs English (木柜子千早爱音) | 610 | -337 |
 | 2025-12-01 05:56 | Win | Japanese vs English (英国逃兵千早爱音) | 610 | -337 |
 | 2025-12-01 05:36 | Loss | Japanese vs French (熊霸天) | 969 | -5 |
