@@ -28,6 +28,7 @@ Live Streams from Twitch and YouTube
 | 2025-12-08 04:05 | Loss | Macedonian Dynasty vs English (Pissu Pickle) | 1082 | 54 |
 | 2025-12-06 22:18 | Win | Macedonian Dynasty vs Japanese (Waki) | 985 | -19 |
 | 2025-12-06 22:18 | Win | Macedonian Dynasty vs Japanese (Wakizashi) | 985 | -19 |
+| 2025-12-06 22:18 | Win | Macedonian Dynasty vs Japanese (EL CHAPO) | 985 | -19 |
 | 2025-12-06 06:46 | Loss | Japanese vs House Of Lancaster (都插了还道歉？) | 984 | -44 |
 | 2025-12-06 06:43 | Win | Japanese vs Sengoku Daimyo (nicepants2004) | 916 | -91 |
 | 2025-12-06 06:43 | Win | Japanese vs Sengoku Daimyo (nicepants08217) | 916 | -91 |
