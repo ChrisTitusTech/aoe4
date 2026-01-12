@@ -14,6 +14,8 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-01-11 21:19 | Win | Macedonian Dynasty vs House Of Lancaster (Actinoninout) | 940 | 5 |
+| 2026-01-11 18:27 | Win | Macedonian Dynasty vs House Of Lancaster (ScoutAndDoubt) | 903 | -9 |
 | 2026-01-11 05:16 | Win | Macedonian Dynasty vs Abbasid Dynasty (Faris_theknight) | 881 | -10 |
 | [2025-12-09 08:19](https://www.youtube.com/watch?v=nk0-LtCLquU&t=11259) ![YouTube](/images/youtube.svg) | Loss | Japanese vs Ottomans (lime・latte) | 982 | 69 |  |
 | [2025-12-09 07:33](https://www.youtube.com/watch?v=nk0-LtCLquU&t=8500) ![YouTube](/images/youtube.svg) | Loss | Macedonian Dynasty vs Macedonian Dynasty (憧憬成为海之魔法少女) | None | N/A |  |
