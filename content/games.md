@@ -14,6 +14,7 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-01-14 03:23 | Win | Macedonian Dynasty vs Byzantines (Ryan) | 986 | 6 |
 | 2026-01-13 03:34 | Win | Macedonian Dynasty vs Tughlaq Dynasty (无言暗夜) | 913 | -46 |
 | 2026-01-11 21:19 | Win | Macedonian Dynasty vs House Of Lancaster (Actinoninout) | 940 | 5 |
 | 2026-01-11 18:27 | Win | Macedonian Dynasty vs House Of Lancaster (ScoutAndDoubt) | 903 | -9 |
@@ -54,6 +55,7 @@ Live Streams from Twitch and YouTube
 | 2025-12-02 03:46 | Loss | Japanese vs Knights Templar (VI. Aleksandros the Great) | 994 | 26 |
 | 2025-12-01 05:56 | Win | Japanese vs English (木柜子千早爱音) | 610 | -337 |
 | 2025-12-01 05:56 | Win | Japanese vs English (英国逃兵千早爱音) | 610 | -337 |
+| 2025-12-01 05:56 | Win | Japanese vs English (圣殿骑士修士若叶睦) | 610 | -337 |
 | 2025-12-01 05:36 | Loss | Japanese vs French (熊霸天) | 969 | -5 |
 | 2025-12-01 03:24 | Win | Japanese vs Knights Templar (Stevie) | 876 | -77 |
 | 2025-12-01 03:24 | Win | Japanese vs Knights Templar (James Tarden) | 876 | -77 |
