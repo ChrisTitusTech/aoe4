@@ -38,10 +38,13 @@ Live Streams from Twitch and YouTube
 | 2025-12-06 06:46 | Loss | Japanese vs House Of Lancaster (都插了还道歉？) | 984 | -44 |
 | 2025-12-06 06:43 | Win | Japanese vs Sengoku Daimyo (nicepants2004) | 916 | -91 |
 | 2025-12-06 06:43 | Win | Japanese vs Sengoku Daimyo (nicepants08217) | 916 | -91 |
+| 2025-12-06 06:43 | Win | Japanese vs Sengoku Daimyo (NicePants7743) | 916 | -91 |
 | 2025-12-06 06:41 | Win | Japanese vs Sengoku Daimyo (nicepants2004) | 940 | -44 |
 | 2025-12-06 06:41 | Win | Japanese vs Sengoku Daimyo (nicepants08217) | 940 | -44 |
+| 2025-12-06 06:41 | Win | Japanese vs Sengoku Daimyo (NicePants7743) | 940 | -44 |
 | 2025-12-06 06:40 | Win | Japanese vs Sengoku Daimyo (nicepants2004) | None | N/A |
 | 2025-12-06 06:40 | Win | Japanese vs Sengoku Daimyo (nicepants08217) | None | N/A |
+| 2025-12-06 06:40 | Win | Japanese vs Sengoku Daimyo (NicePants7743) | None | N/A |
 | [2025-12-05 04:15](https://www.youtube.com/watch?v=ieT2QgPb0Dk&t=4510) ![YouTube](/images/youtube.svg) | Win | Japanese vs English (emird3stro) | 830 | -109 |  |
 | [2025-12-05 03:43](https://www.youtube.com/watch?v=ieT2QgPb0Dk&t=2617) ![YouTube](/images/youtube.svg) | Loss | Japanese vs Holy Roman Empire (Sicario) | 994 | 32 |  |
 | [2025-12-05 03:03](https://www.youtube.com/watch?v=ieT2QgPb0Dk&t=233) ![YouTube](/images/youtube.svg) | Win | Japanese vs Chinese (vieiralol) | 970 | 33 |  |
