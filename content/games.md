@@ -14,6 +14,7 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-01-19 18:26 | Win | Macedonian Dynasty vs Japanese (PAN__WLADCA) | 1059 | 79 |
 | 2026-01-19 05:07 | Win | Macedonian Dynasty vs Holy Roman Empire (只鸚) | 952 | -4 |
 | 2026-01-19 04:41 | Loss | Macedonian Dynasty vs Chinese (alexcle97) | 935 | -45 |
 | 2026-01-18 23:19 | Loss | Macedonian Dynasty vs Holy Roman Empire (Skraylt) | 1019 | 17 |
