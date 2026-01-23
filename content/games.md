@@ -14,6 +14,8 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-01-23 03:42 | Win | Macedonian Dynasty vs French (2196788766) | 1099 | 101 |
+| 2026-01-22 03:50 | Loss | Macedonian Dynasty vs Delhi Sultanate (King Sideter) | 943 | -81 |
 | 2026-01-21 02:00 | Win | Macedonian Dynasty vs Rus (AbneR) | 963 | -40 |
 | 2026-01-19 18:26 | Win | Macedonian Dynasty vs Japanese (PAN__WLADCA) | 1059 | 79 |
 | 2026-01-19 05:07 | Win | Macedonian Dynasty vs Holy Roman Empire (只鸚) | 952 | -4 |
