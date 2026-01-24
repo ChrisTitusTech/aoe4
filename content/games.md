@@ -14,6 +14,7 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-01-24 17:34 | Loss | Japanese vs French (Royal Knight) | 1023 | 26 |
 | 2026-01-24 05:51 | Win | Japanese vs Macedonian Dynasty (Buddhaman) | 938 | -38 |
 | 2026-01-24 05:37 | Loss | Japanese vs Knights Templar (Madoka) | None | N/A |
 | 2026-01-24 03:04 | Win | Japanese vs Order Of The Dragon (LWD) | 1032 | 56 |
