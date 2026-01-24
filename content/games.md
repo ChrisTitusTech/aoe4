@@ -14,6 +14,13 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-01-24 05:51 | Win | Japanese vs Macedonian Dynasty (Buddhaman) | 938 | -38 |
+| 2026-01-24 05:37 | Loss | Japanese vs Knights Templar (Madoka) | None | N/A |
+| 2026-01-24 03:04 | Win | Japanese vs Order Of The Dragon (LWD) | 1032 | 56 |
+| 2026-01-24 02:01 | Win | Macedonian Dynasty vs Rus (Bruninho) | 915 | -39 |
+| 2026-01-23 22:15 | Loss | Macedonian Dynasty vs Golden Horde (Pilzkopf1) | 979 | 1 |
+| 2026-01-23 21:50 | Loss | Macedonian Dynasty vs Golden Horde (RedSeaTradingCompany) | 1000 | -1 |
+| 2026-01-23 20:32 | Loss | Macedonian Dynasty vs French (Fels4) | 954 | -72 |
 | 2026-01-23 03:42 | Win | Macedonian Dynasty vs French (2196788766) | 1099 | 101 |
 | 2026-01-22 03:50 | Loss | Macedonian Dynasty vs Delhi Sultanate (King Sideter) | 943 | -81 |
 | 2026-01-21 02:00 | Win | Macedonian Dynasty vs Rus (AbneR) | 963 | -40 |
