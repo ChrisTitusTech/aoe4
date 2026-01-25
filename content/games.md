@@ -14,6 +14,11 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-01-25 04:59 | Win | Japanese vs French (Knarf) | None | N/A |
+| 2026-01-25 02:08 | Win | Japanese vs Order Of The Dragon (走到人民中去) | 833 | -122 |
+| 2026-01-25 01:51 | Loss | Japanese vs Sengoku Daimyo (Docmax_) | 1013 | 36 |
+| 2026-01-25 00:32 | Loss | Macedonian Dynasty vs Japanese (Hakona-Bin-Matata) | 1005 | 4 |
+| 2026-01-24 23:22 | Loss | Japanese vs Mongols (cienlo) | 940 | -82 |
 | 2026-01-24 17:34 | Loss | Japanese vs French (Royal Knight) | 1023 | 26 |
 | 2026-01-24 05:51 | Win | Japanese vs Macedonian Dynasty (Buddhaman) | 938 | -38 |
 | 2026-01-24 05:37 | Loss | Japanese vs Knights Templar (Madoka) | None | N/A |
