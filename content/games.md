@@ -14,6 +14,19 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-01-26 06:25 | Loss | Macedonian Dynasty vs House Of Lancaster (JuHLor) | 1015 | 44 |
+| 2026-01-26 04:35 | Win | Macedonian Dynasty vs Macedonian Dynasty (lagavulin) | 1058 | 113 |
+| 2026-01-26 04:33 | Win | Macedonian Dynasty vs Macedonian Dynasty (wxlmc001) | None | N/A |
+| 2026-01-26 04:22 | Win | Macedonian Dynasty vs English (Franklin) | 883 | -12 |
+| 2026-01-26 03:56 | Loss | Macedonian Dynasty vs Rus (Donald Trump) | 980 | 63 |
+| 2026-01-26 03:54 | Win | Macedonian Dynasty vs Rus (LooseController5512) | 974 | 89 |
+| 2026-01-26 03:31 | Loss | Japanese vs Rus (The_Brandalorian) | 904 | -6 |
+| 2026-01-25 23:18 | Win | Japanese vs Ottomans (Pala) | 849 | -37 |
+| 2026-01-25 22:35 | Loss | House Of Lancaster vs Macedonian Dynasty (prole1) | 964 | 61 |
+| 2026-01-25 21:45 | Loss | House Of Lancaster vs Mongols (N!TR4M) | 910 | -18 |
+| 2026-01-25 21:26 | Loss | Japanese vs Macedonian Dynasty (WolfShadow4869) | 990 | 39 |
+| 2026-01-25 19:09 | Loss | Japanese vs Chinese (棋逼小短裙) | 981 | 8 |
+| 2026-01-25 18:19 | Loss | Japanese vs Knights Templar (✪ maya) | 950 | -49 |
 | 2026-01-25 04:59 | Win | Japanese vs French (Knarf) | None | N/A |
 | 2026-01-25 02:08 | Win | Japanese vs Order Of The Dragon (走到人民中去) | 833 | -122 |
 | 2026-01-25 01:51 | Loss | Japanese vs Sengoku Daimyo (Docmax_) | 1013 | 36 |
