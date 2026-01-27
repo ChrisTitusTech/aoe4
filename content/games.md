@@ -14,6 +14,11 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-01-27 00:23 | Loss | Ayyubids vs Knights Templar (hardtore) | 943 | 1 |
+| 2026-01-26 22:53 | Loss | Ayyubids vs House Of Lancaster (Yompo) | 890 | -77 |
+| 2026-01-26 22:05 | Win | Ayyubids vs Macedonian Dynasty (Nakiiasha) | None | N/A |
+| 2026-01-26 17:34 | Win | Japanese vs French (Grimsvotn) | 914 | -9 |
+| 2026-01-26 17:19 | Loss | Macedonian Dynasty vs Order Of The Dragon (艾克) | 938 | -11 |
 | 2026-01-26 06:25 | Loss | Macedonian Dynasty vs House Of Lancaster (JuHLor) | 1015 | 44 |
 | 2026-01-26 04:35 | Win | Macedonian Dynasty vs Macedonian Dynasty (lagavulin) | 1058 | 113 |
 | 2026-01-26 04:33 | Win | Macedonian Dynasty vs Macedonian Dynasty (wxlmc001) | None | N/A |
@@ -51,6 +56,7 @@ Live Streams from Twitch and YouTube
 | 2026-01-15 04:00 | Win | Macedonian Dynasty vs Mongols (Unen) | 971 | -33 |
 | 2026-01-14 03:23 | Win | Macedonian Dynasty vs Byzantines (Ryan) | 986 | 6 |
 | 2026-01-13 03:34 | Win | Macedonian Dynasty vs Tughlaq Dynasty (无言暗夜) | 913 | -46 |
+| 2026-01-13 03:34 | Win | Macedonian Dynasty vs Tughlaq Dynasty (>) | 913 | -46 |
 | 2026-01-11 21:19 | Win | Macedonian Dynasty vs House Of Lancaster (Actinoninout) | 940 | 5 |
 | 2026-01-11 18:27 | Win | Macedonian Dynasty vs House Of Lancaster (ScoutAndDoubt) | 903 | -9 |
 | 2026-01-11 05:16 | Win | Macedonian Dynasty vs Abbasid Dynasty (Faris_theknight) | 881 | -10 |
