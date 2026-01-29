@@ -14,6 +14,7 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-01-29 03:51 | Win | Ayyubids vs Macedonian Dynasty (神崎小叶) | 822 | -98 |
 | 2026-01-27 00:23 | Loss | Ayyubids vs Knights Templar (hardtore) | 943 | 1 |
 | 2026-01-26 22:53 | Loss | Ayyubids vs House Of Lancaster (Yompo) | 890 | -77 |
 | 2026-01-26 22:05 | Win | Ayyubids vs Macedonian Dynasty (Nakiiasha) | None | N/A |
