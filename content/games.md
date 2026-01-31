@@ -14,6 +14,7 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-01-30 16:13 | Loss | Ayyubids vs French (pgdomo) | 914 | -57 |
 | 2026-01-30 04:26 | Win | Ayyubids vs Zhu Xis Legacy (ndrw) | None | N/A |
 | 2026-01-29 03:51 | Win | Ayyubids vs Macedonian Dynasty (神崎小叶) | 822 | -98 |
 | 2026-01-27 00:23 | Loss | Ayyubids vs Knights Templar (hardtore) | 943 | 1 |
