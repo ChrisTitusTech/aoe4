@@ -14,6 +14,11 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-02 05:33 | Win | Ayyubids vs House Of Lancaster (2148809670) | 1071 | 89 |
+| 2026-02-02 05:30 | Win | Ayyubids vs Order Of The Dragon (elƒer) | 908 | -55 |
+| 2026-02-02 04:34 | Win | Ayyubids vs Zhu Xis Legacy (碳水化合物) | 1016 | 73 |
+| 2026-02-02 04:20 | Win | Ayyubids vs Zhu Xis Legacy (Paul Tibbets) | None | N/A |
+| 2026-02-02 03:40 | Loss | Ayyubids vs Macedonian Dynasty (Neatvodka) | 814 | -132 |
 | 2026-01-30 16:13 | Loss | Ayyubids vs French (pgdomo) | 914 | -57 |
 | 2026-01-30 04:26 | Win | Ayyubids vs Zhu Xis Legacy (ndrw) | None | N/A |
 | 2026-01-29 03:51 | Win | Ayyubids vs Macedonian Dynasty (神崎小叶) | 822 | -98 |
