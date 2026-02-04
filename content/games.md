@@ -14,6 +14,10 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-04 05:07 | Win | Ayyubids vs Ottomans (LePetitTeodoro) | 956 | 24 |
+| 2026-02-03 22:47 | Loss | Ayyubids vs Order Of The Dragon (Bigod&) | 961 | 5 |
+| 2026-02-03 20:11 | Loss | Ayyubids vs Golden Horde (silent beiz) | 1009 | 31 |
+| 2026-02-03 19:50 | Loss | Ayyubids vs English (termik) | 718 | -283 |
 | 2026-02-02 05:33 | Win | Ayyubids vs House Of Lancaster (2148809670) | 1071 | 89 |
 | 2026-02-02 05:30 | Win | Ayyubids vs Order Of The Dragon (elƒer) | 908 | -55 |
 | 2026-02-02 04:34 | Win | Ayyubids vs Zhu Xis Legacy (碳水化合物) | 1016 | 73 |
