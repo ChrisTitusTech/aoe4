@@ -14,6 +14,9 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-06 20:22 | Win | Ayyubids vs French (Jadan0529) | 1019 | 30 |
+| 2026-02-06 16:39 | Loss | Ayyubids vs Japanese (HandTran) | 923 | -94 |
+| 2026-02-06 14:17 | Win | Ayyubids vs French (Quang Minh) | 966 | -28 |
 | 2026-02-06 06:32 | Win | Ayyubids vs English (好運旺旺來) | 941 | -33 |
 | 2026-02-06 05:19 | Win | Ayyubids vs Japanese (Royce Coolidge) | 955 | 3 |
 | 2026-02-06 03:17 | Loss | Ayyubids vs Macedonian Dynasty (Yugocana) | 970 | -7 |

@@ -14,10 +14,10 @@ draft: false
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
 | 2026-01-23 03:42 | Win | Macedonian Dynasty vs French (2196788766) | 1099 | 101 |
+| 2026-02-02 05:33 | Win | Ayyubids vs House Of Lancaster (2148809670) | 1071 | 89 |
 | 2024-11-09 21:18 | Win | Japanese vs English (cranecrusher) | 1061 | -4 |
 | 2026-01-19 18:26 | Win | Macedonian Dynasty vs Japanese (PAN__WLADCA) | 1059 | 79 |
-| [2025-11-24 20:29](https://www.youtube.com/watch?v=ffzXoX0TafA&t=132) ![YouTube](/images/youtube.svg) | Win | House Of Lancaster vs Sengoku Daimyo (CucumbaFinga) | 1050 | 55 |
-| 2026-01-24 03:04 | Win | Japanese vs Order Of The Dragon (LWD) | 1032 | 56 |
+| 2026-01-26 04:35 | Win | Macedonian Dynasty vs Macedonian Dynasty (lagavulin) | 1058 | 113 |
 
 ## Overall Worst Losses
 
@@ -36,8 +36,8 @@ draft: false
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
 | 2026-01-23 03:42 | Win | Macedonian Dynasty vs French (2196788766) | 1099 | 101 |
+| 2026-02-02 05:33 | Win | Ayyubids vs House Of Lancaster (2148809670) | 1071 | 89 |
 | 2026-01-19 18:26 | Win | Macedonian Dynasty vs Japanese (PAN__WLADCA) | 1059 | 79 |
-| 2026-01-24 03:04 | Win | Japanese vs Order Of The Dragon (LWD) | 1032 | 56 |
 
 ### 2025
 
@@ -62,9 +62,9 @@ draft: false
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
-| 2026-01-19 04:41 | Loss | Macedonian Dynasty vs Chinese (alexcle97) | 935 | -45 |
-| 2026-01-22 03:50 | Loss | Macedonian Dynasty vs Delhi Sultanate (King Sideter) | 943 | -81 |
-| 2026-01-23 20:32 | Loss | Macedonian Dynasty vs French (Fels4) | 954 | -72 |
+| 2026-02-03 19:50 | Loss | Ayyubids vs English (termik) | 718 | -283 |
+| 2026-02-02 03:40 | Loss | Ayyubids vs Macedonian Dynasty (Neatvodka) | 814 | -132 |
+| 2026-01-26 22:53 | Loss | Ayyubids vs House Of Lancaster (Yompo) | 890 | -77 |
 
 ### 2025
 
