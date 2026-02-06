@@ -14,6 +14,9 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-06 06:32 | Win | Ayyubids vs English (好運旺旺來) | 941 | -33 |
+| 2026-02-06 05:19 | Win | Ayyubids vs Japanese (Royce Coolidge) | 955 | 3 |
+| 2026-02-06 03:17 | Loss | Ayyubids vs Macedonian Dynasty (Yugocana) | 970 | -7 |
 | 2026-02-05 04:19 | Win | Ayyubids vs Order Of The Dragon (神秘突破手) | 925 | -31 |
 | 2026-02-04 05:07 | Win | Ayyubids vs Ottomans (LePetitTeodoro) | 956 | 24 |
 | 2026-02-03 22:47 | Loss | Ayyubids vs Order Of The Dragon (Bigod&) | 961 | 5 |
