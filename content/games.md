@@ -14,6 +14,7 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-07 03:07 | Win | Ayyubids vs Sengoku Daimyo (Canaan) | 1025 | 11 |
 | 2026-02-06 20:22 | Win | Ayyubids vs French (Jadan0529) | 1019 | 30 |
 | 2026-02-06 16:39 | Loss | Ayyubids vs Japanese (HandTran) | 923 | -94 |
 | 2026-02-06 14:17 | Win | Ayyubids vs French (Quang Minh) | 966 | -28 |
