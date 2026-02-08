@@ -14,6 +14,10 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-08 04:22 | Loss | Ayyubids vs Order Of The Dragon (soh) | 956 | -14 |
+| 2026-02-07 18:15 | Loss | Ayyubids vs Abbasid Dynasty (kennyjharvey) | 983 | -10 |
+| 2026-02-07 17:53 | Loss | Ayyubids vs Golden Horde (Abeloth) | 997 | -20 |
+| 2026-02-07 16:18 | Loss | Ayyubids vs Malians (RasToujo) | 1077 | 40 |
 | 2026-02-07 03:07 | Win | Ayyubids vs Sengoku Daimyo (Canaan) | 1025 | 11 |
 | 2026-02-06 20:22 | Win | Ayyubids vs French (Jadan0529) | 1019 | 30 |
 | 2026-02-06 16:39 | Loss | Ayyubids vs Japanese (HandTran) | 923 | -94 |
