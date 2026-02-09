@@ -14,6 +14,10 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-09 03:40 | Win | Macedonian Dynasty vs Ayyubids (Vito Andolini) | 941 | -24 |
+| 2026-02-09 01:17 | Win | Macedonian Dynasty vs Sengoku Daimyo (TiScannu) | None | N/A |
+| 2026-02-08 22:53 | Loss | Japanese vs Japanese (JOEK) | 966 | -2 |
+| 2026-02-08 20:13 | Win | Japanese vs French (MoguKing) | None | N/A |
 | 2026-02-08 04:22 | Loss | Ayyubids vs Order Of The Dragon (soh) | 956 | -14 |
 | 2026-02-07 18:15 | Loss | Ayyubids vs Abbasid Dynasty (kennyjharvey) | 983 | -10 |
 | 2026-02-07 17:53 | Loss | Ayyubids vs Golden Horde (Abeloth) | 997 | -20 |
