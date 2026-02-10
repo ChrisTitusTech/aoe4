@@ -14,6 +14,8 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-10 03:12 | Loss | Macedonian Dynasty vs Delhi Sultanate (Jules) | 1057 | 47 |
+| 2026-02-09 18:59 | Win | Macedonian Dynasty vs French (Thâldûin Muraddo) | 1072 | 87 |
 | 2026-02-09 03:40 | Win | Macedonian Dynasty vs Ayyubids (Vito Andolini) | 941 | -24 |
 | 2026-02-09 01:17 | Win | Macedonian Dynasty vs Sengoku Daimyo (TiScannu) | None | N/A |
 | 2026-02-08 22:53 | Loss | Japanese vs Japanese (JOEK) | 966 | -2 |
