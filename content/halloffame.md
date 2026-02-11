@@ -13,11 +13,11 @@ draft: false
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-11 02:08 | Win | Macedonian Dynasty vs Macedonian Dynasty (放羊的牛娃) | 1100 | 43 |
 | 2026-01-23 03:42 | Win | Macedonian Dynasty vs French (2196788766) | 1099 | 101 |
 | 2026-02-09 18:59 | Win | Macedonian Dynasty vs French (Thâldûin Muraddo) | 1072 | 87 |
 | 2026-02-02 05:33 | Win | Ayyubids vs House Of Lancaster (2148809670) | 1071 | 89 |
 | 2024-11-09 21:18 | Win | Japanese vs English (cranecrusher) | 1061 | -4 |
-| 2026-01-19 18:26 | Win | Macedonian Dynasty vs Japanese (PAN__WLADCA) | 1059 | 79 |
 
 ## Overall Worst Losses
 
@@ -35,9 +35,9 @@ draft: false
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-11 02:08 | Win | Macedonian Dynasty vs Macedonian Dynasty (放羊的牛娃) | 1100 | 43 |
 | 2026-01-23 03:42 | Win | Macedonian Dynasty vs French (2196788766) | 1099 | 101 |
 | 2026-02-09 18:59 | Win | Macedonian Dynasty vs French (Thâldûin Muraddo) | 1072 | 87 |
-| 2026-02-02 05:33 | Win | Ayyubids vs House Of Lancaster (2148809670) | 1071 | 89 |
 
 ### 2025
 

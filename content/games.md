@@ -14,6 +14,10 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-11 02:08 | Win | Macedonian Dynasty vs Macedonian Dynasty (放羊的牛娃) | 1100 | 43 |
+| 2026-02-10 21:22 | Win | Macedonian Dynasty vs Japanese (Wah) | None | N/A |
+| 2026-02-10 07:02 | Win | Macedonian Dynasty vs Knights Templar (让我来一梭子全马了) | None | N/A |
+| 2026-02-10 06:43 | Win | Macedonian Dynasty vs Japanese (戏秋) | None | N/A |
 | 2026-02-10 03:12 | Loss | Macedonian Dynasty vs Delhi Sultanate (Jules) | 1057 | 47 |
 | 2026-02-09 18:59 | Win | Macedonian Dynasty vs French (Thâldûin Muraddo) | 1072 | 87 |
 | 2026-02-09 03:40 | Win | Macedonian Dynasty vs Ayyubids (Vito Andolini) | 941 | -24 |
