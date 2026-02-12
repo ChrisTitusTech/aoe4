@@ -239,12 +239,16 @@ def update_markdown_with_links(markdown_content, matched_games):
         if line.strip() and not line.startswith('|---'):
             parts = [part.strip() for part in line.split('|')]
             if len(parts) >= 2:
-                date_time = parts[1]
-                # Only update if the date is not already a hyperlink
-                if not date_time.startswith('['):
+                cell_content = parts[1]
+                # Extract just the date_time part (before any links)
+                date_time = cell_content.split('[![')[0].strip()
+                
+                # Only update if it doesn't already have a YouTube link
+                if '[![YouTube]' not in cell_content:
                     for game_date, timestamp in matched_games:
                         if game_date == date_time:
-                            parts[1] = f'{date_time} [![YouTube](/images/youtube.svg)]({timestamp})'
+                            # Append YouTube link to existing content (preserving any other links)
+                            parts[1] = f'{cell_content} [![YouTube](/images/youtube.svg)]({timestamp})'
                             lines[i] = '| ' + ' | '.join(parts[1:]) + ' |'
                             break
 

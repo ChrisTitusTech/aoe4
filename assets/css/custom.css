@@ -108,3 +108,14 @@ table img[alt="YouTube"] {
   vertical-align: middle;
   margin-left: 0.25em;
 }
+
+/* Custom image sizes */
+img[src*="time.png"] {
+  height: 20px;
+  width: auto;
+}
+
+img[src*="youtube.svg"] {
+  height: 20px;
+  width: auto;
+}
