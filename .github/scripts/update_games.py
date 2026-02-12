@@ -262,7 +262,11 @@ def main():
         mmr_diff = opponent_mmr - titus_mmr if titus_mmr is not None and opponent_mmr is not None else None
         mmr_diff_str = str(mmr_diff) if mmr_diff is not None else 'N/A'
 
-        new_game_entry = f"| {formatted_date} | {result} | {matchup} | {opponent_rating} | {mmr_diff_str} |"
+        # Create aoe4world game summary link
+        game_id = game['game_id']
+        game_url = f"https://aoe4world.com/players/{TITUS_PROFILE_ID}-TitusMaximus/games/{game_id}"
+        
+        new_game_entry = f"| [{formatted_date}]({game_url}) ![AoE4World](/images/time.png) | {result} | {matchup} | {opponent_rating} | {mmr_diff_str} |"
         unique_key = f"{formatted_date}_{opponent_name}"
 
         if unique_key not in existing_games:
