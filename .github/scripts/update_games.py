@@ -266,7 +266,7 @@ def main():
         game_id = game['game_id']
         game_url = f"https://aoe4world.com/players/{TITUS_PROFILE_ID}-TitusMaximus/games/{game_id}"
         
-        new_game_entry = f"| [{formatted_date}]({game_url}) ![AoE4World](/images/time.png) | {result} | {matchup} | {opponent_rating} | {mmr_diff_str} |"
+        new_game_entry = f"| {formatted_date} [![AoE4World](/images/time.png)]({game_url}) | {result} | {matchup} | {opponent_rating} | {mmr_diff_str} |"
         unique_key = f"{formatted_date}_{opponent_name}"
 
         if unique_key not in existing_games:

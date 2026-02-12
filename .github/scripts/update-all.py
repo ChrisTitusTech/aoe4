@@ -101,16 +101,10 @@ def update_games_file(game_lookup):
         if '!YouTube' in date_time_cell or 'youtube.svg' in date_time_cell:
             continue
         
-        # Extract plain date (might be wrapped in markdown link already)
-        if date_time_cell.startswith('['):
-            # Extract date from existing link format
-            date_match = re.search(r'\[([^\]]+)\]', date_time_cell)
-            if date_match:
-                plain_date = date_match.group(1)
-            else:
-                plain_date = date_time_cell
-        else:
-            plain_date = date_time_cell
+        # Extract plain date from the cell
+        # New format: "2026-02-12 02:46 [![Icon](/path)](url)" or just "2026-02-12 02:46"
+        # Extract just the date/time part (before any icon link)
+        plain_date = date_time_cell.split(' [![')[0].strip()
         
         # Extract opponent name from matchup
         opponent_match = re.search(r'\(([^)]+)\)', matchup_cell)
@@ -125,8 +119,8 @@ def update_games_file(game_lookup):
             game_id = game_lookup[key]
             game_url = f"https://aoe4world.com/players/{TITUS_PROFILE_ID}-TitusMaximus/games/{game_id}"
             
-            # Replace the date with a linked version
-            new_date_cell = f"[{plain_date}]({game_url}) ![AoE4World](/images/time.png)"
+            # Replace the date with icon link version
+            new_date_cell = f"{plain_date} [![AoE4World](/images/time.png)]({game_url})"
             parts[1] = new_date_cell
             
             # Reconstruct the line
