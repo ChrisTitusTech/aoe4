@@ -58,6 +58,10 @@ def update_games_file(new_games):
         fields = [f.strip() for f in game.split('|')]
         if len(fields) >= 4:
             date = fields[1].strip()
+            # Handle format: date [![Icon](/path)](url) - remove icon first
+            if ' [!' in date:
+                date = date.split(' [!')[0]
+            # Handle format: [date](url) ![Icon](/path)
             if date.startswith('['):
                 date = date.split(']')[0][1:]
             matchup = fields[3].strip()
@@ -81,9 +85,19 @@ def update_games_file(new_games):
     # Sort games by date in descending order
     def get_game_date(game):
         date_str = game.split('|')[1].strip()
+        # Handle format: date [![Icon](/path)](url) - remove icon first
+        if ' [!' in date_str:
+            date_str = date_str.split(' [!')[0]
+        # Handle format: [date](url) ![Icon](/path)
         if date_str.startswith('['):
             date_str = date_str.split(']')[0][1:]
-        return datetime.strptime(date_str, "%Y-%m-%d %H:%M")
+        # Otherwise it's plain: date
+        try:
+            return datetime.strptime(date_str, "%Y-%m-%d %H:%M")
+        except ValueError as e:
+            print(f"Error parsing date from game entry: {game[:100]}")
+            print(f"Extracted date string: '{date_str}'")
+            raise
     
     unique_games = sorted(unique_games, key=get_game_date, reverse=True)
     

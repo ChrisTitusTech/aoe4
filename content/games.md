@@ -21,7 +21,6 @@ Live Streams from Twitch and YouTube
 | 2026-02-10 06:43 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219659001) | Win | Macedonian Dynasty vs Japanese (戏秋) | None | N/A |
 | 2026-02-10 03:12 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219644850) | Loss | Macedonian Dynasty vs Delhi Sultanate (Jules) | 1057 | 47 |
 | 2026-02-09 18:59 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219597757) | Win | Macedonian Dynasty vs French (Thâldûin Muraddo) | 1072 | 87 |
-| 2026-02-09 03:40 | Win | Macedonian Dynasty vs Ayyubids (Vito Andolini) | 941 | -24 |
 | 2026-02-09 03:40 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219510979) | Win | Macedonian Dynasty vs Ayyubids (Servant of Morgoth) | 941 | -24 |
 | 2026-02-09 01:17 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219501344) | Win | Macedonian Dynasty vs Sengoku Daimyo (TiScannu) | None | N/A |
 | 2026-02-08 22:53 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219491600) | Loss | Japanese vs Japanese (JOEK) | 966 | -2 |
@@ -74,7 +73,6 @@ Live Streams from Twitch and YouTube
 | 2026-01-25 00:32 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/217189548) | Loss | Macedonian Dynasty vs Japanese (Hakona-Bin-Matata) | 1005 | 4 |
 | 2026-01-24 23:22 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/217182437) | Loss | Japanese vs Mongols (cienlo) | 940 | -82 |
 | 2026-01-24 17:34 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/217130792) | Loss | Japanese vs French (Royal Knight) | 1023 | 26 |
-| 2026-01-24 05:51 | Win | Japanese vs Macedonian Dynasty (Buddhaman) | 938 | -38 |
 | 2026-01-24 05:37 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/217033689) | Loss | Japanese vs Knights Templar (Madoka) | None | N/A |
 | 2026-01-24 03:04 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/217019377) | Win | Japanese vs Order Of The Dragon (LWD) | 1032 | 56 |
 | 2026-01-24 02:01 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/217013298) | Win | Macedonian Dynasty vs Rus (Bruninho) | 915 | -39 |
@@ -91,8 +89,6 @@ Live Streams from Twitch and YouTube
 | 2026-01-18 20:59 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/216262558) | Loss | Macedonian Dynasty vs Byzantines (Roboute) | 985 | -42 |
 | 2026-01-15 04:00 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/215627155) | Win | Macedonian Dynasty vs Mongols (Unen) | 971 | -33 |
 | 2026-01-14 03:23 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/215487274) | Win | Macedonian Dynasty vs Byzantines (Ryan) | 986 | 6 |
-| 2026-01-13 03:34 | Win | Macedonian Dynasty vs Tughlaq Dynasty (无言暗夜) | 913 | -46 |
-| 2026-01-13 03:34 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/215347049) | Win | Macedonian Dynasty vs Tughlaq Dynasty (>) | 913 | -46 |
 | 2026-01-11 21:19 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/215166515) | Win | Macedonian Dynasty vs House Of Lancaster (Actinoninout) | 940 | 5 |
 | 2026-01-11 18:27 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/215138474) | Win | Macedonian Dynasty vs House Of Lancaster (ScoutAndDoubt) | 903 | -9 |
 | 2026-01-11 05:16 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/215018310) | Win | Macedonian Dynasty vs Abbasid Dynasty (Faris_theknight) | 881 | -10 |
@@ -108,19 +104,7 @@ Live Streams from Twitch and YouTube
 | 2025-12-08 04:55 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/209500955) | Win | Macedonian Dynasty vs English (Alfred.T.G) | 928 | -58 |
 | 2025-12-08 04:23 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/209498670) | Loss | Macedonian Dynasty vs Sengoku Daimyo (Socerton) | 1027 | 20 |
 | 2025-12-08 04:05 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/209497516) | Loss | Macedonian Dynasty vs English (Pissu Pickle) | 1082 | 54 |
-| 2025-12-06 22:18 | Win | Macedonian Dynasty vs Japanese (Waki) | 985 | -19 |
-| 2025-12-06 22:18 | Win | Macedonian Dynasty vs Japanese (Wakizashi) | 985 | -19 |
-| 2025-12-06 22:18 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/209281099) | Win | Macedonian Dynasty vs Japanese (EL CHAPO) | 985 | -19 |
 | 2025-12-06 06:46 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/209146743) | Loss | Japanese vs House Of Lancaster (都插了还道歉？) | 984 | -44 |
-| 2025-12-06 06:43 | Win | Japanese vs Sengoku Daimyo (nicepants2004) | 916 | -91 |
-| 2025-12-06 06:43 | Win | Japanese vs Sengoku Daimyo (nicepants08217) | 916 | -91 |
-| 2025-12-06 06:43 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/209146498) | Win | Japanese vs Sengoku Daimyo (NicePants7743) | 916 | -91 |
-| 2025-12-06 06:41 | Win | Japanese vs Sengoku Daimyo (nicepants2004) | 940 | -44 |
-| 2025-12-06 06:41 | Win | Japanese vs Sengoku Daimyo (nicepants08217) | 940 | -44 |
-| 2025-12-06 06:41 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/209146305) | Win | Japanese vs Sengoku Daimyo (NicePants7743) | 940 | -44 |
-| 2025-12-06 06:40 | Win | Japanese vs Sengoku Daimyo (nicepants2004) | None | N/A |
-| 2025-12-06 06:40 | Win | Japanese vs Sengoku Daimyo (nicepants08217) | None | N/A |
-| 2025-12-06 06:40 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/209146148) | Win | Japanese vs Sengoku Daimyo (NicePants7743) | None | N/A |
 | 2025-12-05 04:15 [![YouTube](/images/youtube.svg)](https://www.youtube.com/watch?v=ieT2QgPb0Dk&t=4510) | Win | Japanese vs English (emird3stro) | 830 | -109 |  |
 | 2025-12-05 03:43 [![YouTube](/images/youtube.svg)](https://www.youtube.com/watch?v=ieT2QgPb0Dk&t=2617) | Loss | Japanese vs Holy Roman Empire (Sicario) | 994 | 32 |  |
 | 2025-12-05 03:03 [![YouTube](/images/youtube.svg)](https://www.youtube.com/watch?v=ieT2QgPb0Dk&t=233) | Win | Japanese vs Chinese (vieiralol) | 970 | 33 |  |
@@ -131,14 +115,7 @@ Live Streams from Twitch and YouTube
 | 2025-12-02 05:47 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/208556068) | Win | Japanese vs Chinese (H-Sam_MT) | 1003 | 84 |
 | 2025-12-02 04:11 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/208549440) | Loss | Japanese vs Zhu Xis Legacy (knight) | 921 | -22 |
 | 2025-12-02 03:46 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/208547675) | Loss | Japanese vs Knights Templar (XII. Constantine the Great) | 994 | 26 |
-| 2025-12-02 03:46 | Loss | Japanese vs Knights Templar (Magister Templi) | 994 | 26 |
-| 2025-12-02 03:46 | Loss | Japanese vs Knights Templar (VI. Aleksandros the Great) | 994 | 26 |
-| 2025-12-01 05:56 | Win | Japanese vs English (木柜子千早爱音) | 610 | -337 |
-| 2025-12-01 05:56 | Win | Japanese vs English (英国逃兵千早爱音) | 610 | -337 |
-| 2025-12-01 05:56 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/208410985) | Win | Japanese vs English (圣殿骑士修士若叶睦) | 610 | -337 |
 | 2025-12-01 05:36 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/208409754) | Loss | Japanese vs French (熊霸天) | 969 | -5 |
-| 2025-12-01 03:24 | Win | Japanese vs Knights Templar (Stevie) | 876 | -77 |
-| 2025-12-01 03:24 | Win | Japanese vs Knights Templar (James Tarden) | 876 | -77 |
 | 2025-11-25 02:14 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/207409997) | Loss | House Of Lancaster vs Order Of The Dragon (遗憾托付科幻) | 889 | -87 |
 | 2025-11-25 02:12 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/207409845) | Win | House Of Lancaster vs Sengoku Daimyo (ramazine12) | 1017 | 67 |
 | 2025-11-25 01:46 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/207407930) | Loss | House Of Lancaster vs Ayyubids (Mr. Refreshing) | 714 | -257 |
@@ -146,7 +123,6 @@ Live Streams from Twitch and YouTube
 | 2025-11-24 22:08 [![YouTube](/images/youtube.svg)](https://www.youtube.com/watch?v=ffzXoX0TafA&t=6096) | Loss | House Of Lancaster vs Jeanne Darc (eduardogmtq) | 939 | -33 |  |
 | 2025-11-24 21:39 [![YouTube](/images/youtube.svg)](https://www.youtube.com/watch?v=ffzXoX0TafA&t=4331) | Loss | House Of Lancaster vs Macedonian Dynasty (Honda Prelude 4g 2.3i) | 957 | -39 |  |
 | 2025-11-24 20:52 [![YouTube](/images/youtube.svg)](https://www.youtube.com/watch?v=ffzXoX0TafA&t=1540) | Loss | House Of Lancaster vs Knights Templar (callumcreegan) | None | N/A |  |
-| 2025-11-24 20:52 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/207382113) | Loss | House Of Lancaster vs Knights Templar (BootsCreegan) | None | N/A |
 | 2025-11-24 20:29 [![YouTube](/images/youtube.svg)](https://www.youtube.com/watch?v=ffzXoX0TafA&t=132) | Win | House Of Lancaster vs Sengoku Daimyo (CucumbaFinga) | 1050 | 55 |  |
 | 2025-11-24 06:09 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/207283621) | Win | House Of Lancaster vs French (JeWiShAtHlEtE9) | 928 | -44 |
 | 2025-11-24 05:43 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/207282015) | Loss | Macedonian Dynasty vs Japanese (克里克伯爵) | 967 | -29 |
@@ -194,11 +170,8 @@ Live Streams from Twitch and YouTube
 | 2025-11-09 20:41 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/204950320) | Win | Macedonian Dynasty vs Sengoku Daimyo (RedOktober) | None | N/A |
 | 2025-11-09 20:23 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/204947318) | Win | Macedonian Dynasty vs Jeanne Darc (Planetarian) | None | N/A |
 | 2025-11-09 20:00 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/204943372) | Win | Macedonian Dynasty vs French (Wider_panda) | 772 | N/A |
-| 2025-11-08 04:09 | Loss | Macedonian Dynasty vs French (迪克·佩恩) | 908 | N/A |
-| 2025-11-08 04:09 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/204556277) | Loss | Macedonian Dynasty vs French (有个更好的开始) | 908 | N/A |
 | 2025-11-08 03:40 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/204552983) | Win | Macedonian Dynasty vs English (Mr MonkeyJones) | 797 | N/A |
 | 2025-11-07 21:02 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/204505198) | Win | Macedonian Dynasty vs English (JMirandaN7) | 695 | N/A |
-| 2025-11-04 02:56 | Win | House Of Lancaster vs Ayyubids (Vegboy) | 950 | N/A |
 | 2024-11-26 05:33 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/155150577) | Loss | Holy Roman Empire vs English (PepKingPrawn) | 697 | -170 |
 | 2024-11-26 03:44 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/155144046) | Loss | Ayyubids vs Ayyubids (Minatauro2580) | 878 | -13 |
 | 2024-11-26 03:10 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/155141996) | Loss | Ayyubids vs English (Jangles75) | 916 | 2 |
@@ -219,48 +192,33 @@ Live Streams from Twitch and YouTube
 | 2024-11-21 22:50 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154579418) | Win | Abbasid Dynasty vs French (erarcito666) | None | N/A |
 | 2024-11-21 22:47 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154579182) | Win | Abbasid Dynasty vs Abbasid Dynasty (accuratebuzzard1516) | None | N/A |
 | 2024-11-21 08:30 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154497470) | Loss | Japanese vs Delhi Sultanate (ugur) | None | N/A |
-| 2024-11-21 07:13 | Loss | Japanese vs Holy Roman Empire (FlashNBurn) | 887 | 3 |
-| 2024-11-21 07:13 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154493232) | Loss | Japanese vs Holy Roman Empire (Whey2Juicy) | 887 | 3 |
 | 2024-11-21 06:24 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154490645) | Win | Japanese vs Byzantines (信天翁) | 841 | -21 |
-| 2024-11-21 05:58 | Loss | Japanese vs English (czkiab) | 804 | -89 |
-| 2024-11-21 05:58 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154489283) | Loss | Japanese vs English (LebanonCedars) | 804 | -89 |
 | 2024-11-21 05:17 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154487135) | Loss | Japanese vs English (markit0) | 849 | -66 |
-| 2024-11-19 07:54 | Win | Japanese vs Malians (Net Zero) | 872 | -20 |
-| 2024-11-19 07:54 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154261462) | Win | Japanese vs Malians (Old Smoke) | 872 | -20 |
 | 2024-11-19 07:22 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154259809) | Loss | Japanese vs French (Surrendead) | 637 | -277 |
 | 2024-11-19 06:46 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154257935) | Win | Japanese vs Order Of The Dragon (BigPablo) | 885 | -5 |
 | 2024-11-19 05:58 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154255430) | Loss | Mongols vs Zhu Xis Legacy (MaxedStoned) | 853 | -62 |
 | 2024-11-19 05:22 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154253489) | Loss | Mongols vs Ottomans (EXTREMELY MANLY) | 803 | -137 |
 | 2024-11-19 05:01 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154252307) | Loss | Mongols vs Abbasid Dynasty (badguy) | 922 | -42 |
-| 2024-11-18 06:57 | Loss | Mongols vs Holy Roman Empire (Howmanybitchesharderthanalotofu) | 834 | -157 |
 | 2024-11-18 06:22 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154139374) | Loss | Mongols vs Rus (skullkid158) | 962 | -52 |
 | 2024-11-18 05:45 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154137463) | Loss | Mongols vs Order Of The Dragon (H20Zen) | 952 | -86 |
-| 2024-11-18 05:09 | Win | Mongols vs Holy Roman Empire (fbplaya00565) | None | N/A |
 | 2024-11-18 05:00 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154134921) | Win | Mongols vs Abbasid Dynasty (Full_Feudal) | None | N/A |
 | 2024-11-18 04:40 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154133754) | Win | Mongols vs Mongols (IAndoresu) | None | N/A |
 | 2024-11-18 03:47 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154130415) | Loss | Mongols vs English (xRobinLongstride) | 837 | -161 |
 | 2024-11-18 03:17 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/154128633) | Loss | Mongols vs Japanese (Risky_Boii) | 990 | -32 |
 | 2024-11-14 22:50 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153672876) | Loss | Japanese vs Holy Roman Empire (bcooop) | 855 | -191 |
-| 2024-11-14 22:25 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153671076) | Loss | Japanese vs Rus (]NsR Rasta Jedi) | 1062 | -5 |
-| 2024-11-14 21:02 | Loss | Japanese vs Ayyubids (Giorgos) | None | N/A |
-| [2024-11-14 20:40 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153661801) | Loss | Japanese vs Order Of The Dragon (Izmo) | 1001 | -111 |
+| 2024-11-14 22:25 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153671076) | Loss | Japanese vs Rus (NsR Rasta Jedi) | 1062 | -5 |
+| 2024-11-14 20:40 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153661801) | Loss | Japanese vs Order Of The Dragon (Izmo) | 1001 | -111 |
 | 2024-11-14 20:14 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153659078) | Win | Japanese vs Japanese (Archtrain8) | 962 | -130 |
-| 2024-11-12 21:11 | Win | Japanese vs Chinese (Art The Clown) | 956 | -113 |
 | 2024-11-12 20:44 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153428429) | Win | Japanese vs English (Skillionaire) | 946 | -102 |
 | 2024-11-12 05:40 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153348945) | Win | Japanese vs English (CookiEZ) | 668 | -355 |
 | 2024-11-12 05:02 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153346949) | Win | Japanese vs Zhu Xis Legacy (Ottoman7319) | 974 | -27 |
-| 2024-11-12 04:39 | Loss | Japanese vs English (Cardinal Sin) | 1012 | -10 |
-| 2024-11-12 03:29 | Loss | Japanese vs Chinese (Art The Clown) | 947 | -98 |
 | 2024-11-12 02:45 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153338332) | Win | Japanese vs French (NOtoRioUs MiC) | 817 | -207 |
-| 2024-11-12 02:04 | Win | Japanese vs Zhu Xis Legacy ({幕后煮屎}) | 913 | -85 |
-| 2024-11-12 02:04 | Win | Japanese vs Zhu Xis Legacy (他说他是千岛爱音的狗) | 913 | -85 |
 | 2024-11-10 08:26 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153089832) | Win | Japanese vs Holy Roman Empire (SirLichtenstein) | 953 | -21 |
 | 2024-11-10 07:52 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153086508) | Loss | Japanese vs French (kkshe87) | 795 | -201 |
 | 2024-11-10 07:34 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153084799) | Win | Japanese vs Mongols (WambaX) | None | N/A |
 | 2024-11-10 07:13 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153082776) | Loss | Order Of The Dragon vs Malians (Topatata) | 845 | -148 |
 | 2024-11-10 06:31 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153078924) | Loss | Order Of The Dragon vs English (Ondr8904) | 994 | -20 |
 | 2024-11-10 06:09 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153076987) | Loss | Order Of The Dragon vs Ayyubids (Larry the Cucumber) | 948 | -90 |
-| 2024-11-10 05:40 | Win | Order Of The Dragon vs Holy Roman Empire (nazao) | None | N/A |
 | 2024-11-10 05:23 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153072876) | Loss | Order Of The Dragon vs English (SirGillies) | 959 | -82 |
 | 2024-11-09 22:21 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153037049) | Loss | Japanese vs English (JackinAround) | 1001 | -63 |
 | 2024-11-09 21:51 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153033957) | Loss | Japanese vs Abbasid Dynasty (lekkerlekker) | None | N/A |
@@ -270,8 +228,6 @@ Live Streams from Twitch and YouTube
 | 2024-11-09 05:58 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152924111) | Win | Japanese vs Chinese (Labouite) | 879 | -167 |
 | 2024-11-09 05:13 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152920378) | Loss | Japanese vs Delhi Sultanate (timwilkinsonline) | 873 | -197 |
 | 2024-11-09 04:43 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152917875) | Win | Japanese vs Order Of The Dragon (AP_GO_WILD) | 959 | -88 |
-| 2024-11-09 04:21 | Win | Japanese vs Delhi Sultanate (PO3) | 1007 | -14 |
-| 2024-11-09 04:21 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152916098) | Win | Japanese vs Delhi Sultanate (InLost) | 1007 | -14 |
 | 2024-11-08 06:05 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152793437) | Win | Japanese vs Japanese (gunnerwulf) | None | N/A |
 | 2024-11-08 05:38 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152792053) | Win | Japanese vs Ottomans (Stevenjcsu88) | 947 | -33 |
 | 2024-11-08 04:46 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152788987) | Win | Japanese vs French (ジン) | 1003 | 48 |
@@ -285,12 +241,10 @@ Live Streams from Twitch and YouTube
 | 2024-11-05 04:57 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152452847) | Loss | Japanese vs Jeanne Darc (MRS Ginger West) | 872 | -49 |
 | 2024-11-04 06:35 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152340874) | Win | Japanese vs English (piano4mesh) | 884 | -12 |
 | 2024-11-04 05:38 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152337944) | Loss | Japanese vs Order Of The Dragon (Him) | 823 | -96 |
-| 2024-11-04 05:13 | Win | Japanese vs Japanese (Im Rusty ASF) | None | N/A |
 | 2024-11-04 04:45 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152334869) | Loss | Japanese vs Abbasid Dynasty (SomeDonkus) | None | N/A |
 | 2024-11-04 03:57 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152331885) | Win | Japanese vs Mongols (1151312599) | None | N/A |
 | 2024-11-04 03:32 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152330315) | Win | Japanese vs English (chrispy surfer) | 781 | -93 |
 | 2024-11-04 01:31 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152322297) | Win | Japanese vs French (Qwerty) | 746 | -107 |
-| 2024-11-04 00:58 | Win | Japanese vs English (Jugger_Not) | None | N/A |
 | 2024-11-04 00:35 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152318386) | Win | Japanese vs Holy Roman Empire (clarkes_abu) | 647 | -160 |
 | 2024-11-04 00:14 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152316961) | Win | Japanese vs Chinese (IXxPAPAxXI) | 639 | -144 |
 | 2024-11-02 06:20 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152043846) | Win | Japanese vs English (sedget) | 761 | 4 |

@@ -16,7 +16,7 @@ draft: false
 | 2026-02-11 02:08 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219774047) | Win | Macedonian Dynasty vs Macedonian Dynasty (放羊的牛娃) | 1100 | 43 |
 | 2026-01-23 03:42 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/216869566) | Win | Macedonian Dynasty vs French (2196788766) | 1099 | 101 |
 | 2026-02-09 18:59 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219597757) | Win | Macedonian Dynasty vs French (Thâldûin Muraddo) | 1072 | 87 |
-| 2026-02-02 05:33 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/218974826) | Win | Ayyubids vs House Of Lancaster (2148809670) | 1071 | 89 |
+| 2026-02-02 05:33 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/218475367) | Win | Ayyubids vs House Of Lancaster (2148809670) | 1071 | 89 |
 | 2026-02-12 02:46 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219912353) | Win | Macedonian Dynasty vs English (Capittano1985) | 1062 | -21 |
 
 ## Overall Worst Losses
@@ -53,7 +53,7 @@ draft: false
 |---------------|--------|---------|-----------------|----------------|
 | 2024-11-09 21:18 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/153030254) | Win | Japanese vs English (cranecrusher) | 1061 | -4 |
 | 2024-11-25 22:14 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/155122148) | Win | Ayyubids vs Delhi Sultanate (CAESAR) | 1026 | 135 |
-| 2024-11-09 04:21 | Win | Japanese vs Delhi Sultanate (PO3) | 1007 | -14 |
+| 2024-11-08 04:46 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/152788987) | Win | Japanese vs French (ジン) | 1003 | 48 |
 
 
 ## Worst Losses by Year
