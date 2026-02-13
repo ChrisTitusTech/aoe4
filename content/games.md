@@ -14,6 +14,7 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-13 00:39 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220039777) | Win | Macedonian Dynasty vs Knights Templar (Donger) | 1021 | -84 |
 | 2026-02-12 02:46 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219912353) | Win | Macedonian Dynasty vs English (Capittano1985) | 1062 | -21 |
 | 2026-02-11 02:08 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219774047) | Win | Macedonian Dynasty vs Macedonian Dynasty (放羊的牛娃) | 1100 | 43 |
 | 2026-02-10 21:22 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219751400) | Win | Macedonian Dynasty vs Japanese (Wah) | None | N/A |
@@ -23,6 +24,7 @@ Live Streams from Twitch and YouTube
 | 2026-02-09 18:59 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219597757) | Win | Macedonian Dynasty vs French (Thâldûin Muraddo) | 1072 | 87 |
 | 2026-02-09 03:40 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219510979) | Win | Macedonian Dynasty vs Ayyubids (Servant of Morgoth) | 941 | -24 |
 | 2026-02-09 01:17 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219501344) | Win | Macedonian Dynasty vs Sengoku Daimyo (TiScannu) | None | N/A |
+| 2026-02-09 01:17 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219501344) | Win | Macedonian Dynasty vs Sengoku Daimyo (TiScannu Jason) | None | N/A |
 | 2026-02-08 22:53 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219491600) | Loss | Japanese vs Japanese (JOEK) | 966 | -2 |
 | 2026-02-08 20:13 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219471707) | Win | Japanese vs French (MoguKing) | None | N/A |
 | 2026-02-08 04:22 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219339410) | Loss | Ayyubids vs Order Of The Dragon (soh) | 956 | -14 |
