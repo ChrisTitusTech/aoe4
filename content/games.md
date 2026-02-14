@@ -14,6 +14,7 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-14 03:01 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220196153) | Win | Macedonian Dynasty vs Chinese (灏神) | 1088 | -38 |
 | 2026-02-13 00:39 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220039777) | Win | Macedonian Dynasty vs Knights Templar (Donger) | 1021 | -84 |
 | 2026-02-12 02:46 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219912353) | Win | Macedonian Dynasty vs English (Capittano1985) | 1062 | -21 |
 | 2026-02-11 02:08 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219774047) | Win | Macedonian Dynasty vs Macedonian Dynasty (放羊的牛娃) | 1100 | 43 |
