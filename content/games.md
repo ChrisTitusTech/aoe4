@@ -14,6 +14,9 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-14 23:11 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220335405) | Loss | Macedonian Dynasty vs Malians (Pippo) | 999 | -155 |
+| 2026-02-14 21:42 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220325457) | Win | Macedonian Dynasty vs Ayyubids (megamind) | 1077 | -54 |
+| 2026-02-14 19:53 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220311183) | Loss | Macedonian Dynasty vs Jeanne Darc (le chevalier au pancréas) | 1163 | 13 |
 | 2026-02-14 03:01 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220196153) | Win | Macedonian Dynasty vs Chinese (灏神) | 1088 | -38 |
 | 2026-02-13 00:39 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220039777) | Win | Macedonian Dynasty vs Knights Templar (Donger) | 1021 | -84 |
 | 2026-02-12 02:46 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219912353) | Win | Macedonian Dynasty vs English (Capittano1985) | 1062 | -21 |
