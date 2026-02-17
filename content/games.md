@@ -14,6 +14,8 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-17 03:56 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220669041) | Loss | Macedonian Dynasty vs French (Kai shek Express) | 1075 | -92 |
+| 2026-02-16 20:10 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220625179) | Win | Macedonian Dynasty vs French (WizardLegend) | 1010 | -137 |
 | 2026-02-15 22:33 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220502198) | Win | Macedonian Dynasty vs Knights Templar (Orphelius) | 1054 | -72 |
 | 2026-02-14 23:11 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220335405) | Loss | Macedonian Dynasty vs Malians (Pippo) | 999 | -155 |
 | 2026-02-14 21:42 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220325457) | Win | Macedonian Dynasty vs Ayyubids (megamind) | 1077 | -54 |
