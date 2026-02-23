@@ -14,6 +14,11 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-23 02:28 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221577591) | Win | Macedonian Dynasty vs French (J3S) | 973 | -20 |
+| 2026-02-22 21:23 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221547843) | Loss | Macedonian Dynasty vs Ottomans (Vipekoi) | 935 | -85 |
+| 2026-02-22 20:21 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221538337) | Win | Macedonian Dynasty vs English (paul_long1985) | 1016 | 20 |
+| 2026-02-22 18:37 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221521117) | Win | Macedonian Dynasty vs Japanese (按SHIFT冲刺) | 1001 | 28 |
+| 2026-02-22 18:10 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221516914) | Loss | Macedonian Dynasty vs Order Of The Dragon (fasteddie8) | 974 | -25 |
 | 2026-02-22 03:27 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221400519) | Loss | Macedonian Dynasty vs French (123123) | 1046 | 25 |
 | 2026-02-21 21:20 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221361213) | Win | Macedonian Dynasty vs Japanese (Kristof) | 1031 | 33 |
 | 2026-02-21 19:34 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221345452) | Loss | Macedonian Dynasty vs Rus (GreenFrogDK) | 957 | -68 |
