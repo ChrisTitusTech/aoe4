@@ -14,6 +14,7 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-02-27 03:02 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/222132435) | Loss | Macedonian Dynasty vs Macedonian Dynasty (diltruck9) | 991 | 2 |
 | 2026-02-25 02:40 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221860519) | Loss | Macedonian Dynasty vs Order Of The Dragon (ala general) | 1022 | 10 |
 | 2026-02-25 00:49 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221851827) | Loss | Macedonian Dynasty vs Chinese (1015805677) | 1056 | 23 |
 | 2026-02-24 03:28 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221727480) | Win | Macedonian Dynasty vs Mongols (TimeKiller2529) | 932 | -83 |
