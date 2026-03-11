@@ -14,10 +14,10 @@ draft: false
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
 | 2026-02-11 02:08 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219774047) | Win | Macedonian Dynasty vs Macedonian Dynasty (放羊的牛娃) | 1100 | 43 |
+| 2026-02-20 20:48 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221186261) | Win | Ayyubids vs Japanese (tun4) | 1099 | 32 |
 | 2026-01-23 03:42 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/216869566) | Win | Macedonian Dynasty vs French (2196788766) | 1099 | 101 |
-| 2026-02-09 18:59 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219597757) | Win | Macedonian Dynasty vs French (Thâldûin Muraddo) | 1072 | 87 |
-| 2026-02-02 05:33 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/218475367) | Win | Ayyubids vs House Of Lancaster (2148809670) | 1071 | 89 |
-| 2026-02-12 02:46 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219912353) | Win | Macedonian Dynasty vs English (Capittano1985) | 1062 | -21 |
+| 2026-02-14 03:01 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220196153) | Win | Macedonian Dynasty vs Chinese (灏神) | 1088 | -38 |
+| 2026-02-20 01:54 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221071383) | Win | Macedonian Dynasty vs Knights Templar (LastTeutonic) | 1086 | 19 |
 
 ## Overall Worst Losses
 
@@ -36,8 +36,8 @@ draft: false
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
 | 2026-02-11 02:08 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219774047) | Win | Macedonian Dynasty vs Macedonian Dynasty (放羊的牛娃) | 1100 | 43 |
+| 2026-02-20 20:48 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221186261) | Win | Ayyubids vs Japanese (tun4) | 1099 | 32 |
 | 2026-01-23 03:42 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/216869566) | Win | Macedonian Dynasty vs French (2196788766) | 1099 | 101 |
-| 2026-02-09 18:59 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219597757) | Win | Macedonian Dynasty vs French (Thâldûin Muraddo) | 1072 | 87 |
 
 ### 2025
 
