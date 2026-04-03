@@ -57,6 +57,7 @@ Live Streams from Twitch and YouTube
 | 2026-02-10 03:12 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219644850) | Loss | Macedonian Dynasty vs Delhi Sultanate (Jules) | 1057 | 47 |
 | 2026-02-09 18:59 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219597757) | Win | Macedonian Dynasty vs French (Thâldûin Muraddo) | 1072 | 87 |
 | 2026-02-09 03:40 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219510979) | Win | Macedonian Dynasty vs Ayyubids (Servant of Morgoth) | 941 | -24 |
+| 2026-02-09 03:40 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219510979) | Win | Macedonian Dynasty vs Ayyubids (Squirtle Squad Sunglasses) | 941 | -24 |
 | 2026-02-09 01:17 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219501344) | Win | Macedonian Dynasty vs Sengoku Daimyo (TiScannu) | None | N/A |
 | 2026-02-09 01:17 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219501344) | Win | Macedonian Dynasty vs Sengoku Daimyo (TiScannu Jason) | None | N/A |
 | 2026-02-08 22:53 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219491600) | Loss | Japanese vs Japanese (JOEK) | 966 | -2 |
