@@ -65,6 +65,7 @@ Live Streams from Twitch and YouTube
 | 2026-02-08 22:53 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219491600) | Loss | Japanese vs Japanese (山光西落) | 966 | -2 |
 | 2026-02-08 20:13 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219471707) | Win | Japanese vs French (MoguKing) | None | N/A |
 | 2026-02-08 20:13 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219471707) | Win | Japanese vs French (MinatoNamikase) | None | N/A |
+| 2026-02-08 20:13 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219471707) | Win | Japanese vs French (口渴喝水别吸我屌) | None | N/A |
 | 2026-02-08 04:22 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219339410) | Loss | Ayyubids vs Order Of The Dragon (soh) | 956 | -14 |
 | 2026-02-07 18:15 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219267205) | Loss | Ayyubids vs Abbasid Dynasty (kennyjharvey) | 983 | -10 |
 | 2026-02-07 17:53 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/219264005) | Loss | Ayyubids vs Golden Horde (Abeloth) | 997 | -20 |
