@@ -14,6 +14,12 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-05-18 02:57 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/233904654) | Win | Japanese vs Rus (RavenMG) | 1026 | 255 |
+| 2026-05-18 01:55 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/233899943) | Win | Japanese vs Malians (walmer45) | 884 | 150 |
+| 2026-05-18 01:10 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/233896470) | Win | Japanese vs French (J3S) | 925 | N/A |
+| 2026-05-17 23:15 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/233887670) | Win | Japanese vs Ottomans (FaZi Reaper) | 931 | N/A |
+| 2026-05-17 22:18 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/233882868) | Loss | Sengoku Daimyo vs Order Of The Dragon (yt/karma_obla) | 916 | N/A |
+| 2026-05-17 21:58 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/233880903) | Loss | Sengoku Daimyo vs Jeanne Darc (BaggyGecko65019) | 1011 | N/A |
 | 2026-05-16 19:21 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/233663482) | Loss | Sengoku Daimyo vs Golden Horde (Konstantin70) | 956 | N/A |
 | 2026-03-26 01:31 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/225880227) | Win | Macedonian Dynasty vs Macedonian Dynasty (Nightstalker12) | 962 | -5 |
 | 2026-02-27 03:02 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/222132435) | Loss | Macedonian Dynasty vs Macedonian Dynasty (diltruck9) | 991 | 2 |
