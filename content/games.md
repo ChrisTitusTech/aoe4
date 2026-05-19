@@ -14,6 +14,9 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-05-19 04:11 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234056243) | Win | Japanese vs English (Bohemian) | 907 | 118 |
+| 2026-05-19 02:30 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234049557) | Loss | Japanese vs Byzantines (Kaglor) | 988 | 189 |
+| 2026-05-18 21:48 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234028564) | Loss | Japanese vs Rus (DangyBrangus) | 972 | 160 |
 | 2026-05-18 02:57 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/233904654) | Win | Japanese vs Rus (RavenMG) | 1026 | 255 |
 | 2026-05-18 01:55 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/233899943) | Win | Japanese vs Malians (walmer45) | 884 | 150 |
 | 2026-05-18 01:10 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/233896470) | Win | Japanese vs French (J3S) | 925 | N/A |
