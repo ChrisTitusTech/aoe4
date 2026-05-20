@@ -14,6 +14,8 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-05-20 03:11 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234196679) | Loss | Japanese vs Mongols (cooperhd) | 1045 | 182 |
+| 2026-05-19 23:14 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234179922) | Win | Japanese vs Golden Horde (Kalon) | 986 | 159 |
 | 2026-05-19 04:11 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234056243) | Win | Japanese vs English (Bohemian) | 907 | 118 |
 | 2026-05-19 02:30 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234049557) | Loss | Japanese vs Byzantines (Kaglor) | 988 | 189 |
 | 2026-05-18 21:48 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234028564) | Loss | Japanese vs Rus (DangyBrangus) | 972 | 160 |
