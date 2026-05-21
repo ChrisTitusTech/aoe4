@@ -14,6 +14,10 @@ Live Streams from Twitch and YouTube
 
 | Date and Time | Result | Matchup | Opponent Rating | MMR Difference |
 |---------------|--------|---------|-----------------|----------------|
+| 2026-05-21 04:15 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234339163) | Win | Japanese vs Macedonian Dynasty (glory128868dgtsa) | 925 | 61 |
+| 2026-05-21 02:17 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234331057) | Win | Japanese vs English (Big Dardy Sing) | 942 | 110 |
+| 2026-05-21 01:57 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234329611) | Loss | Japanese vs Delhi Sultanate (wygitawhugxi) | 1100 | 262 |
+| 2026-05-21 01:11 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234326442) | Loss | Japanese vs French (哈基米) | 937 | 84 |
 | 2026-05-20 03:11 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234196679) | Loss | Japanese vs Mongols (cooperhd) | 1045 | 182 |
 | 2026-05-19 23:14 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234179922) | Win | Japanese vs Golden Horde (Kalon) | 986 | 159 |
 | 2026-05-19 04:11 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/234056243) | Win | Japanese vs English (Bohemian) | 907 | 118 |
