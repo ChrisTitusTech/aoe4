@@ -48,6 +48,7 @@ Live Streams from Twitch and YouTube
 | 2026-02-21 17:18 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221326234) | Loss | Macedonian Dynasty vs French (zerusbr1) | 1070 | 24 |
 | 2026-02-21 17:01 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221323873) | Loss | Japanese vs French (zerusbr1) | 1048 | -21 |
 | 2026-02-20 20:54 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221187037) | Loss | Japanese vs Ottomans (saeedzk) | 1101 | 10 |
+| 2026-02-20 20:54 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221187037) | Loss | Japanese vs Ottomans (Giga Saeed) | 1101 | 10 |
 | 2026-02-20 20:48 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221186261) | Win | Ayyubids vs Japanese (tun4) | 1099 | 32 |
 | 2026-02-20 20:02 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221179844) | Win | Ayyubids vs Order Of The Dragon (EchooOFF3030) | 1031 | N/A |
 | 2026-02-20 16:01 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221149493) | Loss | Macedonian Dynasty vs Sengoku Daimyo (Dudi) | 1035 | -57 |
