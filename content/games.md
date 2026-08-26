@@ -56,6 +56,7 @@ Live Streams from Twitch and YouTube
 | 2026-02-20 01:54 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221071383) | Win | Macedonian Dynasty vs Knights Templar (Balian) | 1086 | 19 |
 | 2026-02-19 18:36 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221025841) | Loss | Macedonian Dynasty vs English (shockodelmar) | 1084 | -7 |
 | 2026-02-19 04:51 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220944689) | Loss | Macedonian Dynasty vs Knights Templar (King Maegon) | 1060 | -58 |
+| 2026-02-19 04:51 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220944689) | Loss | Macedonian Dynasty vs Knights Templar (Anotand's Smurf Alt) | 1060 | -58 |
 | 2026-02-19 03:17 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220938250) | Win | Macedonian Dynasty vs Holy Roman Empire (Sinister) | 1071 | N/A |
 | 2026-02-18 00:47 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220792373) | Loss | Macedonian Dynasty vs Japanese (K1) | 1063 | -80 |
 | 2026-02-17 03:56 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/220669041) | Loss | Macedonian Dynasty vs French (Kai shek Express) | 1075 | -92 |
