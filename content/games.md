@@ -42,6 +42,7 @@ Live Streams from Twitch and YouTube
 | 2026-02-22 18:10 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221516914) | Loss | Macedonian Dynasty vs Order Of The Dragon (fasteddie8) | 974 | -25 |
 | 2026-02-22 03:27 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221400519) | Loss | Macedonian Dynasty vs French (123123) | 1046 | 25 |
 | 2026-02-21 21:20 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221361213) | Win | Macedonian Dynasty vs Japanese (Kristof) | 1031 | 33 |
+| 2026-02-21 21:20 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221361213) | Win | Macedonian Dynasty vs Japanese (Glückszwerg) | 1031 | 33 |
 | 2026-02-21 19:34 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221345452) | Loss | Macedonian Dynasty vs Rus (GreenFrogDK) | 957 | -68 |
 | 2026-02-21 19:26 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221344221) | Win | Macedonian Dynasty vs Golden Horde (Bolelexz) | 875 | -124 |
 | 2026-02-21 18:17 [![AoE4World](/images/time.png)](https://aoe4world.com/players/17272020-TitusMaximus/games/221334587) | Loss | Macedonian Dynasty vs French (Quang Minh) | 983 | -41 |
